@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\032_Значение_Побочных_Эффектов\bin\Debug\032_Значение_Побочных_Эффектов.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\032_Значение_Побочных_Эффектов\bin\Debug\032_Значение_Побочных_Эффектов.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\032_Значение_Побочных_Эффектов\bin\Debug\032_Значение_Побочных_Эффектов.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\032_Значение_Побочных_Эффектов\obj\Debug\032_Значение_Побочных_Эффектов.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\032_Значение_Побочных_Эффектов\obj\Debug\032_Значение_Побочных_Эффектов.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\032_Значение_Побочных_Эффектов\obj\Debug\032_Значение_Побочных_Эффектов.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\032_Значение_Побочных_Эффектов\obj\Debug\032_Значение_Побочных_Эффектов.pdb

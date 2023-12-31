@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\066_GoTo_Switch\bin\Debug\066_GoTo_Switch.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\066_GoTo_Switch\bin\Debug\066_GoTo_Switch.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\066_GoTo_Switch\bin\Debug\066_GoTo_Switch.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\066_GoTo_Switch\obj\Debug\066_GoTo_Switch.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\066_GoTo_Switch\obj\Debug\066_GoTo_Switch.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\066_GoTo_Switch\obj\Debug\066_GoTo_Switch.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\066_GoTo_Switch\obj\Debug\066_GoTo_Switch.pdb

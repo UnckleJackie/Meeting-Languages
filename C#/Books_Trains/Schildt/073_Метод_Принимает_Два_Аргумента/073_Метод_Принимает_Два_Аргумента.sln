@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "073_Метод_Принимает_Два_Аргумента", "073_Метод_Принимает_Два_Аргумента.csproj", "{EFE1BEB6-D309-4902-B155-60217AD2FDC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFE1BEB6-D309-4902-B155-60217AD2FDC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE1BEB6-D309-4902-B155-60217AD2FDC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE1BEB6-D309-4902-B155-60217AD2FDC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE1BEB6-D309-4902-B155-60217AD2FDC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0087B43-0527-42EA-B835-EA528FD0B5C5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\057_Объявление_Управляющих_Переменных_for\bin\Debug\057_Объявление_Управляющих_Переменных_for.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\057_Объявление_Управляющих_Переменных_for\bin\Debug\057_Объявление_Управляющих_Переменных_for.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\057_Объявление_Управляющих_Переменных_for\bin\Debug\057_Объявление_Управляющих_Переменных_for.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\057_Объявление_Управляющих_Переменных_for\obj\Debug\057_Объявление_Управляющих_Переменных_for.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\057_Объявление_Управляющих_Переменных_for\obj\Debug\057_Объявление_Управляющих_Переменных_for.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\057_Объявление_Управляющих_Переменных_for\obj\Debug\057_Объявление_Управляющих_Переменных_for.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\057_Объявление_Управляющих_Переменных_for\obj\Debug\057_Объявление_Управляющих_Переменных_for.pdb

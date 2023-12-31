@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\003_Int_Double_Отличия\bin\Debug\003_Int_Double_Отличия.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\003_Int_Double_Отличия\bin\Debug\003_Int_Double_Отличия.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\003_Int_Double_Отличия\bin\Debug\003_Int_Double_Отличия.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\003_Int_Double_Отличия\obj\Debug\003_Int_Double_Отличия.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\003_Int_Double_Отличия\obj\Debug\003_Int_Double_Отличия.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\003_Int_Double_Отличия\obj\Debug\003_Int_Double_Отличия.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\003_Int_Double_Отличия\obj\Debug\003_Int_Double_Отличия.pdb

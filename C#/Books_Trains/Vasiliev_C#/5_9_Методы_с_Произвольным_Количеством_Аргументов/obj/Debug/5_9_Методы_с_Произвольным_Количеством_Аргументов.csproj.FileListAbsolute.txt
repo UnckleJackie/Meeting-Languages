@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_9_Методы_с_Произвольным_Количеством_Аргументов\bin\Debug\5_9_Методы_с_Произвольным_Количеством_Аргументов.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_9_Методы_с_Произвольным_Количеством_Аргументов\bin\Debug\5_9_Методы_с_Произвольным_Количеством_Аргументов.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_9_Методы_с_Произвольным_Количеством_Аргументов\bin\Debug\5_9_Методы_с_Произвольным_Количеством_Аргументов.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_9_Методы_с_Произвольным_Количеством_Аргументов\obj\Debug\5_9_Методы_с_Произвольным_Количеством_Аргументов.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_9_Методы_с_Произвольным_Количеством_Аргументов\obj\Debug\5_9_Методы_с_Произвольным_Количеством_Аргументов.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_9_Методы_с_Произвольным_Количеством_Аргументов\obj\Debug\5_9_Методы_с_Произвольным_Количеством_Аргументов.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_9_Методы_с_Произвольным_Количеством_Аргументов\obj\Debug\5_9_Методы_с_Произвольным_Количеством_Аргументов.pdb

@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_13_Параметры_Командной_Строки\bin\Debug\4_13_Параметры_Командной_Строки.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_13_Параметры_Командной_Строки\bin\Debug\4_13_Параметры_Командной_Строки.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_13_Параметры_Командной_Строки\bin\Debug\4_13_Параметры_Командной_Строки.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_13_Параметры_Командной_Строки\obj\Debug\4_13_Параметры_Командной_Строки.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_13_Параметры_Командной_Строки\obj\Debug\4_13_Параметры_Командной_Строки.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_13_Параметры_Командной_Строки\obj\Debug\4_13_Параметры_Командной_Строки.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_13_Параметры_Командной_Строки\obj\Debug\4_13_Параметры_Командной_Строки.pdb

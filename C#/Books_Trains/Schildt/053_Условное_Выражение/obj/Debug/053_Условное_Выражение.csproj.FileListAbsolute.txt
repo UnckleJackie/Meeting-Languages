@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\053_Условное_Выражение\bin\Debug\053_Условное_Выражение.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\053_Условное_Выражение\bin\Debug\053_Условное_Выражение.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\053_Условное_Выражение\bin\Debug\053_Условное_Выражение.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\053_Условное_Выражение\obj\Debug\053_Условное_Выражение.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\053_Условное_Выражение\obj\Debug\053_Условное_Выражение.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\053_Условное_Выражение\obj\Debug\053_Условное_Выражение.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\053_Условное_Выражение\obj\Debug\053_Условное_Выражение.pdb

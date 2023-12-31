@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\035_Показать_Биты_Составляющие_Байт\bin\Debug\035_Показать_Биты_Составляющие_Байт.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\035_Показать_Биты_Составляющие_Байт\bin\Debug\035_Показать_Биты_Составляющие_Байт.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\035_Показать_Биты_Составляющие_Байт\bin\Debug\035_Показать_Биты_Составляющие_Байт.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\035_Показать_Биты_Составляющие_Байт\obj\Debug\035_Показать_Биты_Составляющие_Байт.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\035_Показать_Биты_Составляющие_Байт\obj\Debug\035_Показать_Биты_Составляющие_Байт.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\035_Показать_Биты_Составляющие_Байт\obj\Debug\035_Показать_Биты_Составляющие_Байт.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\035_Показать_Биты_Составляющие_Байт\obj\Debug\035_Показать_Биты_Составляющие_Байт.pdb

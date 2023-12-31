@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\063_Выявляем_Наименьший_Множитель_Числа\bin\Debug\063_Выявляем_Наименьший_Множитель_Числа.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\063_Выявляем_Наименьший_Множитель_Числа\bin\Debug\063_Выявляем_Наименьший_Множитель_Числа.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\063_Выявляем_Наименьший_Множитель_Числа\bin\Debug\063_Выявляем_Наименьший_Множитель_Числа.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\063_Выявляем_Наименьший_Множитель_Числа\obj\Debug\063_Выявляем_Наименьший_Множитель_Числа.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\063_Выявляем_Наименьший_Множитель_Числа\obj\Debug\063_Выявляем_Наименьший_Множитель_Числа.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\063_Выявляем_Наименьший_Множитель_Числа\obj\Debug\063_Выявляем_Наименьший_Множитель_Числа.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\063_Выявляем_Наименьший_Множитель_Числа\obj\Debug\063_Выявляем_Наименьший_Множитель_Числа.pdb

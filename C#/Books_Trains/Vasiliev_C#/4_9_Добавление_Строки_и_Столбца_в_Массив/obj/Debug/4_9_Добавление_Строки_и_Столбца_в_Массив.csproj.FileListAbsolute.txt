@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_9_Добавление_Строки_и_Столбца_в_Массив\bin\Debug\4_9_Добавление_Строки_и_Столбца_в_Массив.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_9_Добавление_Строки_и_Столбца_в_Массив\bin\Debug\4_9_Добавление_Строки_и_Столбца_в_Массив.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_9_Добавление_Строки_и_Столбца_в_Массив\bin\Debug\4_9_Добавление_Строки_и_Столбца_в_Массив.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_9_Добавление_Строки_и_Столбца_в_Массив\obj\Debug\4_9_Добавление_Строки_и_Столбца_в_Массив.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_9_Добавление_Строки_и_Столбца_в_Массив\obj\Debug\4_9_Добавление_Строки_и_Столбца_в_Массив.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_9_Добавление_Строки_и_Столбца_в_Массив\obj\Debug\4_9_Добавление_Строки_и_Столбца_в_Массив.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_9_Добавление_Строки_и_Столбца_в_Массив\obj\Debug\4_9_Добавление_Строки_и_Столбца_в_Массив.pdb

@@ -1,0 +1,2 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\BootCamp\BootCamp_001\obj\Debug\BootCamp_001.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\BootCamp\BootCamp_001\obj\Debug\BootCamp_001.csproj.CoreCompileInputs.cache

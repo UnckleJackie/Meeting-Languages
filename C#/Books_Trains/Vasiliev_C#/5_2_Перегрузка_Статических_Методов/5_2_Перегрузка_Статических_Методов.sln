@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_2_Перегрузка_Статических_Методов", "5_2_Перегрузка_Статических_Методов.csproj", "{A2E5F80F-F082-4A68-A392-E2A5CBB56014}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2E5F80F-F082-4A68-A392-E2A5CBB56014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E5F80F-F082-4A68-A392-E2A5CBB56014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E5F80F-F082-4A68-A392-E2A5CBB56014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E5F80F-F082-4A68-A392-E2A5CBB56014}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {825E135E-1FED-4D0E-9936-0BA355421699}
+	EndGlobalSection
+EndGlobal

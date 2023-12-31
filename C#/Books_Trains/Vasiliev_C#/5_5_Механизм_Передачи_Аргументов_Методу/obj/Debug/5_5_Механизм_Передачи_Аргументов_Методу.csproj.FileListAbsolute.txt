@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_5_Механизм_Передачи_Аргументов_Методу\bin\Debug\5_5_Механизм_Передачи_Аргументов_Методу.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_5_Механизм_Передачи_Аргументов_Методу\bin\Debug\5_5_Механизм_Передачи_Аргументов_Методу.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_5_Механизм_Передачи_Аргументов_Методу\bin\Debug\5_5_Механизм_Передачи_Аргументов_Методу.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_5_Механизм_Передачи_Аргументов_Методу\obj\Debug\5_5_Механизм_Передачи_Аргументов_Методу.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_5_Механизм_Передачи_Аргументов_Методу\obj\Debug\5_5_Механизм_Передачи_Аргументов_Методу.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_5_Механизм_Передачи_Аргументов_Методу\obj\Debug\5_5_Механизм_Передачи_Аргументов_Методу.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_5_Механизм_Передачи_Аргументов_Методу\obj\Debug\5_5_Механизм_Передачи_Аргументов_Методу.pdb

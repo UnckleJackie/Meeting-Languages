@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\065_Оператор_Continue\bin\Debug\065_Оператор_Continue.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\065_Оператор_Continue\bin\Debug\065_Оператор_Continue.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\065_Оператор_Continue\bin\Debug\065_Оператор_Continue.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\065_Оператор_Continue\obj\Debug\065_Оператор_Continue.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\065_Оператор_Continue\obj\Debug\065_Оператор_Continue.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\065_Оператор_Continue\obj\Debug\065_Оператор_Continue.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\065_Оператор_Continue\obj\Debug\065_Оператор_Continue.pdb

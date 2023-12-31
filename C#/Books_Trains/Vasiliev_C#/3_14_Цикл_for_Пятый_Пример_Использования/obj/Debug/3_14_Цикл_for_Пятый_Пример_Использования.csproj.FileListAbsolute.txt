@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_14_Цикл_for_Пятый_Пример_Использования\bin\Debug\3_14_Цикл_for_Пятый_Пример_Использования.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_14_Цикл_for_Пятый_Пример_Использования\bin\Debug\3_14_Цикл_for_Пятый_Пример_Использования.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_14_Цикл_for_Пятый_Пример_Использования\bin\Debug\3_14_Цикл_for_Пятый_Пример_Использования.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_14_Цикл_for_Пятый_Пример_Использования\obj\Debug\3_14_Цикл_for_Пятый_Пример_Использования.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_14_Цикл_for_Пятый_Пример_Использования\obj\Debug\3_14_Цикл_for_Пятый_Пример_Использования.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_14_Цикл_for_Пятый_Пример_Использования\obj\Debug\3_14_Цикл_for_Пятый_Пример_Использования.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_14_Цикл_for_Пятый_Пример_Использования\obj\Debug\3_14_Цикл_for_Пятый_Пример_Использования.pdb

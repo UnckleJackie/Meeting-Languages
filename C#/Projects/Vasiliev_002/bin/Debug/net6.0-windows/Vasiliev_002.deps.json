@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Vasiliev_002/1.0.0": {
+        "runtime": {
+          "Vasiliev_002.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vasiliev_002/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\043_Оператор_if_else\bin\Debug\043_Оператор_if_else.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\043_Оператор_if_else\bin\Debug\043_Оператор_if_else.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\043_Оператор_if_else\bin\Debug\043_Оператор_if_else.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\043_Оператор_if_else\obj\Debug\043_Оператор_if_else.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\043_Оператор_if_else\obj\Debug\043_Оператор_if_else.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\043_Оператор_if_else\obj\Debug\043_Оператор_if_else.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\043_Оператор_if_else\obj\Debug\043_Оператор_if_else.pdb

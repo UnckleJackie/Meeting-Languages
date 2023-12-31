@@ -1,0 +1,4 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\004_Dialogue_Window_2\obj\Debug\net8.0\004_Dialogue_Window_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\004_Dialogue_Window_2\obj\Debug\net8.0\004_Dialogue_Window_2.AssemblyInfoInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\004_Dialogue_Window_2\obj\Debug\net8.0\004_Dialogue_Window_2.AssemblyInfo.cs
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\004_Dialogue_Window_2\obj\Debug\net8.0\004_Dialogue_Window_2.csproj.CoreCompileInputs.cache

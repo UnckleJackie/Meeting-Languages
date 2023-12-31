@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_8_Использование_Рекурсии\bin\Debug\5_8_Использование_Рекурсии.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_8_Использование_Рекурсии\bin\Debug\5_8_Использование_Рекурсии.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_8_Использование_Рекурсии\bin\Debug\5_8_Использование_Рекурсии.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_8_Использование_Рекурсии\obj\Debug\5_8_Использование_Рекурсии.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_8_Использование_Рекурсии\obj\Debug\5_8_Использование_Рекурсии.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_8_Использование_Рекурсии\obj\Debug\5_8_Использование_Рекурсии.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_8_Использование_Рекурсии\obj\Debug\5_8_Использование_Рекурсии.pdb

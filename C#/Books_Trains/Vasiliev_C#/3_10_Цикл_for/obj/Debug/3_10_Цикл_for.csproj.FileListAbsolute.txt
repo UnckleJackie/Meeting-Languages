@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_10_Цикл_for\bin\Debug\3_10_Цикл_for.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_10_Цикл_for\bin\Debug\3_10_Цикл_for.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_10_Цикл_for\bin\Debug\3_10_Цикл_for.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_10_Цикл_for\obj\Debug\3_10_Цикл_for.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_10_Цикл_for\obj\Debug\3_10_Цикл_for.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_10_Цикл_for\obj\Debug\3_10_Цикл_for.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_10_Цикл_for\obj\Debug\3_10_Цикл_for.pdb

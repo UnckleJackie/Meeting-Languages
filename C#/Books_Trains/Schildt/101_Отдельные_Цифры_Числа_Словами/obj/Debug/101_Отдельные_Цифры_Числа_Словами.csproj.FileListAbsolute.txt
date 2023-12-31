@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\101_Отдельные_Цифры_Числа_Словами\bin\Debug\101_Отдельные_Цифры_Числа_Словами.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\101_Отдельные_Цифры_Числа_Словами\bin\Debug\101_Отдельные_Цифры_Числа_Словами.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\101_Отдельные_Цифры_Числа_Словами\bin\Debug\101_Отдельные_Цифры_Числа_Словами.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\101_Отдельные_Цифры_Числа_Словами\obj\Debug\101_Отдельные_Цифры_Числа_Словами.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\101_Отдельные_Цифры_Числа_Словами\obj\Debug\101_Отдельные_Цифры_Числа_Словами.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\101_Отдельные_Цифры_Числа_Словами\obj\Debug\101_Отдельные_Цифры_Числа_Словами.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\101_Отдельные_Цифры_Числа_Словами\obj\Debug\101_Отдельные_Цифры_Числа_Словами.pdb

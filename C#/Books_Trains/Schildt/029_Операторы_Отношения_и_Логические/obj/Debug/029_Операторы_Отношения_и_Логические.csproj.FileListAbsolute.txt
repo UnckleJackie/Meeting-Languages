@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\029_Операторы_Отношения_и_Логические\bin\Debug\029_Операторы_Отношения_и_Логические.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\029_Операторы_Отношения_и_Логические\bin\Debug\029_Операторы_Отношения_и_Логические.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\029_Операторы_Отношения_и_Логические\bin\Debug\029_Операторы_Отношения_и_Логические.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\029_Операторы_Отношения_и_Логические\obj\Debug\029_Операторы_Отношения_и_Логические.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\029_Операторы_Отношения_и_Логические\obj\Debug\029_Операторы_Отношения_и_Логические.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\029_Операторы_Отношения_и_Логические\obj\Debug\029_Операторы_Отношения_и_Логические.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\029_Операторы_Отношения_и_Логические\obj\Debug\029_Операторы_Отношения_и_Логические.pdb

@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\034_Поразрядный_И_Определение_Нечетности\bin\Debug\034_Поразрядный_И_Определение_Нечетности.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\034_Поразрядный_И_Определение_Нечетности\bin\Debug\034_Поразрядный_И_Определение_Нечетности.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\034_Поразрядный_И_Определение_Нечетности\bin\Debug\034_Поразрядный_И_Определение_Нечетности.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\034_Поразрядный_И_Определение_Нечетности\obj\Debug\034_Поразрядный_И_Определение_Нечетности.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\034_Поразрядный_И_Определение_Нечетности\obj\Debug\034_Поразрядный_И_Определение_Нечетности.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\034_Поразрядный_И_Определение_Нечетности\obj\Debug\034_Поразрядный_И_Определение_Нечетности.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\034_Поразрядный_И_Определение_Нечетности\obj\Debug\034_Поразрядный_И_Определение_Нечетности.pdb

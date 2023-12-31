@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\BootCamp\092_Length_В_Зубчатых_Массивах\bin\Debug\092_Length_В_Зубчатых_Массивах.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\BootCamp\092_Length_В_Зубчатых_Массивах\bin\Debug\092_Length_В_Зубчатых_Массивах.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\BootCamp\092_Length_В_Зубчатых_Массивах\bin\Debug\092_Length_В_Зубчатых_Массивах.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\BootCamp\092_Length_В_Зубчатых_Массивах\obj\Debug\092_Length_В_Зубчатых_Массивах.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\BootCamp\092_Length_В_Зубчатых_Массивах\obj\Debug\092_Length_В_Зубчатых_Массивах.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\BootCamp\092_Length_В_Зубчатых_Массивах\obj\Debug\092_Length_В_Зубчатых_Массивах.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\BootCamp\092_Length_В_Зубчатых_Массивах\obj\Debug\092_Length_В_Зубчатых_Массивах.pdb

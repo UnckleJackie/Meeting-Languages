@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\018_decimal_Представление_в_Валюте\bin\Debug\018_decimal_Представление_в_Валюте.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\018_decimal_Представление_в_Валюте\bin\Debug\018_decimal_Представление_в_Валюте.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\018_decimal_Представление_в_Валюте\bin\Debug\018_decimal_Представление_в_Валюте.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\018_decimal_Представление_в_Валюте\obj\Debug\018_decimal_Представление_в_Валюте.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\018_decimal_Представление_в_Валюте\obj\Debug\018_decimal_Представление_в_Валюте.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\018_decimal_Представление_в_Валюте\obj\Debug\018_decimal_Представление_в_Валюте.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\018_decimal_Представление_в_Валюте\obj\Debug\018_decimal_Представление_в_Валюте.pdb

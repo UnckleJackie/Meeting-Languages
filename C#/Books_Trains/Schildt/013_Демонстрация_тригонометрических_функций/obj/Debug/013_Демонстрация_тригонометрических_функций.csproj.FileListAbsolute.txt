@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\013_Демонстрация_тригонометрических_функций\bin\Debug\013_Демонстрация_тригонометрических_функций.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\013_Демонстрация_тригонометрических_функций\bin\Debug\013_Демонстрация_тригонометрических_функций.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\013_Демонстрация_тригонометрических_функций\bin\Debug\013_Демонстрация_тригонометрических_функций.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\013_Демонстрация_тригонометрических_функций\obj\Debug\013_Демонстрация_тригонометрических_функций.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\013_Демонстрация_тригонометрических_функций\obj\Debug\013_Демонстрация_тригонометрических_функций.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\013_Демонстрация_тригонометрических_функций\obj\Debug\013_Демонстрация_тригонометрических_функций.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\013_Демонстрация_тригонометрических_функций\obj\Debug\013_Демонстрация_тригонометрических_функций.pdb

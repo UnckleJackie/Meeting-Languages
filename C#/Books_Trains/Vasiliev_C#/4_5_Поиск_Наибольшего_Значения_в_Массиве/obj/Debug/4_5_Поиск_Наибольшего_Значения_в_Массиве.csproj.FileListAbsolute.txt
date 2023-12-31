@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_5_Поиск_Наибольшего_Значения_в_Массиве\bin\Debug\4_5_Поиск_Наибольшего_Значения_в_Массиве.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_5_Поиск_Наибольшего_Значения_в_Массиве\bin\Debug\4_5_Поиск_Наибольшего_Значения_в_Массиве.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_5_Поиск_Наибольшего_Значения_в_Массиве\bin\Debug\4_5_Поиск_Наибольшего_Значения_в_Массиве.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_5_Поиск_Наибольшего_Значения_в_Массиве\obj\Debug\4_5_Поиск_Наибольшего_Значения_в_Массиве.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_5_Поиск_Наибольшего_Значения_в_Массиве\obj\Debug\4_5_Поиск_Наибольшего_Значения_в_Массиве.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_5_Поиск_Наибольшего_Значения_в_Массиве\obj\Debug\4_5_Поиск_Наибольшего_Значения_в_Массиве.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_5_Поиск_Наибольшего_Значения_в_Массиве\obj\Debug\4_5_Поиск_Наибольшего_Значения_в_Массиве.pdb

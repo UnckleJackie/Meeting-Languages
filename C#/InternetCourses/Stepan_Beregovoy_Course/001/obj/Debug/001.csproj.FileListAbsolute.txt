@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\InternetCourses\Stepan_Beregovoy_Course\001\bin\Debug\001.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\InternetCourses\Stepan_Beregovoy_Course\001\bin\Debug\001.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\InternetCourses\Stepan_Beregovoy_Course\001\bin\Debug\001.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\InternetCourses\Stepan_Beregovoy_Course\001\obj\Debug\001.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\InternetCourses\Stepan_Beregovoy_Course\001\obj\Debug\001.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\InternetCourses\Stepan_Beregovoy_Course\001\obj\Debug\001.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\InternetCourses\Stepan_Beregovoy_Course\001\obj\Debug\001.pdb

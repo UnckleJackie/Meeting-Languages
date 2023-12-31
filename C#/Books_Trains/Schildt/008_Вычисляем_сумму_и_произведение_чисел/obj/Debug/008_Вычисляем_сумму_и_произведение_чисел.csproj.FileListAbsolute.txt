@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\008_Вычисляем_сумму_и_произведение_чисел\bin\Debug\008_Вычисляем_сумму_и_произведение_чисел.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\008_Вычисляем_сумму_и_произведение_чисел\bin\Debug\008_Вычисляем_сумму_и_произведение_чисел.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\008_Вычисляем_сумму_и_произведение_чисел\bin\Debug\008_Вычисляем_сумму_и_произведение_чисел.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\008_Вычисляем_сумму_и_произведение_чисел\obj\Debug\008_Вычисляем_сумму_и_произведение_чисел.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\008_Вычисляем_сумму_и_произведение_чисел\obj\Debug\008_Вычисляем_сумму_и_произведение_чисел.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\008_Вычисляем_сумму_и_произведение_чисел\obj\Debug\008_Вычисляем_сумму_и_произведение_чисел.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\008_Вычисляем_сумму_и_произведение_чисел\obj\Debug\008_Вычисляем_сумму_и_произведение_чисел.pdb

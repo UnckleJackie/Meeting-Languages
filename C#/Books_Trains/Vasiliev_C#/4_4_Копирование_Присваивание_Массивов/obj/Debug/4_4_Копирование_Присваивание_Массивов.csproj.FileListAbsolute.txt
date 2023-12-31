@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_4_Копирование_Присваивание_Массивов\bin\Debug\4_4_Копирование_Присваивание_Массивов.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_4_Копирование_Присваивание_Массивов\bin\Debug\4_4_Копирование_Присваивание_Массивов.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_4_Копирование_Присваивание_Массивов\bin\Debug\4_4_Копирование_Присваивание_Массивов.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_4_Копирование_Присваивание_Массивов\obj\Debug\4_4_Копирование_Присваивание_Массивов.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_4_Копирование_Присваивание_Массивов\obj\Debug\4_4_Копирование_Присваивание_Массивов.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_4_Копирование_Присваивание_Массивов\obj\Debug\4_4_Копирование_Присваивание_Массивов.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_4_Копирование_Присваивание_Массивов\obj\Debug\4_4_Копирование_Присваивание_Массивов.pdb

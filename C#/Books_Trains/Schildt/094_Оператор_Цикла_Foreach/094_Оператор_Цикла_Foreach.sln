@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "094_Оператор_Цикла_Foreach", "094_Оператор_Цикла_Foreach.csproj", "{917EA5A7-6CBA-49DC-BC90-27E601712166}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{917EA5A7-6CBA-49DC-BC90-27E601712166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{917EA5A7-6CBA-49DC-BC90-27E601712166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{917EA5A7-6CBA-49DC-BC90-27E601712166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{917EA5A7-6CBA-49DC-BC90-27E601712166}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7356E043-F126-4E8D-9FEB-F6C4F7F2565E}
+	EndGlobalSection
+EndGlobal

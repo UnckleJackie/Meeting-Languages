@@ -1,0 +1,6 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Projects\002\obj\Debug\net6.0-windows\_002.Form1.resources
+C:\Users\anech\Desktop\Meeting_Languages\C#\Projects\002\obj\Debug\net6.0-windows\002.csproj.GenerateResource.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Projects\002\obj\Debug\net6.0-windows\002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anech\Desktop\Meeting_Languages\C#\Projects\002\obj\Debug\net6.0-windows\002.AssemblyInfoInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Projects\002\obj\Debug\net6.0-windows\002.AssemblyInfo.cs
+C:\Users\anech\Desktop\Meeting_Languages\C#\Projects\002\obj\Debug\net6.0-windows\002.csproj.CoreCompileInputs.cache

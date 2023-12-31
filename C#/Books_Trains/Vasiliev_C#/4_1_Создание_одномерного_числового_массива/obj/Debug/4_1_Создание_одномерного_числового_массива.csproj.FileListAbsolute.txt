@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_1_Создание_одномерного_числового_массива\bin\Debug\4_1_Создание_одномерного_числового_массива.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_1_Создание_одномерного_числового_массива\bin\Debug\4_1_Создание_одномерного_числового_массива.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_1_Создание_одномерного_числового_массива\bin\Debug\4_1_Создание_одномерного_числового_массива.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_1_Создание_одномерного_числового_массива\obj\Debug\4_1_Создание_одномерного_числового_массива.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_1_Создание_одномерного_числового_массива\obj\Debug\4_1_Создание_одномерного_числового_массива.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_1_Создание_одномерного_числового_массива\obj\Debug\4_1_Создание_одномерного_числового_массива.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_1_Создание_одномерного_числового_массива\obj\Debug\4_1_Создание_одномерного_числового_массива.pdb

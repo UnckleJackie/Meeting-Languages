@@ -1,0 +1,14 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\002_WriteHello\obj\Debug\net8.0\002_WriteHello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\002_WriteHello\obj\Debug\net8.0\002_WriteHello.AssemblyInfoInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\002_WriteHello\obj\Debug\net8.0\002_WriteHello.AssemblyInfo.cs
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\002_WriteHello\obj\Debug\net8.0\002_WriteHello.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\002_WriteHello\bin\Debug\net8.0\002_WriteHello.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\002_WriteHello\bin\Debug\net8.0\002_WriteHello.deps.json
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\002_WriteHello\bin\Debug\net8.0\002_WriteHello.runtimeconfig.json
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\002_WriteHello\bin\Debug\net8.0\002_WriteHello.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\002_WriteHello\bin\Debug\net8.0\002_WriteHello.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\002_WriteHello\obj\Debug\net8.0\002_WriteHello.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\002_WriteHello\obj\Debug\net8.0\refint\002_WriteHello.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\002_WriteHello\obj\Debug\net8.0\002_WriteHello.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\002_WriteHello\obj\Debug\net8.0\002_WriteHello.genruntimeconfig.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\002_WriteHello\obj\Debug\net8.0\ref\002_WriteHello.dll

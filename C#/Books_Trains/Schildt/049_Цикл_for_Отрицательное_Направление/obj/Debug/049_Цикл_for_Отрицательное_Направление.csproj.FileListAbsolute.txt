@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\049_Цикл_for_Отрицательное_Направление\bin\Debug\049_Цикл_for_Отрицательное_Направление.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\049_Цикл_for_Отрицательное_Направление\bin\Debug\049_Цикл_for_Отрицательное_Направление.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\049_Цикл_for_Отрицательное_Направление\bin\Debug\049_Цикл_for_Отрицательное_Направление.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\049_Цикл_for_Отрицательное_Направление\obj\Debug\049_Цикл_for_Отрицательное_Направление.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\049_Цикл_for_Отрицательное_Направление\obj\Debug\049_Цикл_for_Отрицательное_Направление.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\049_Цикл_for_Отрицательное_Направление\obj\Debug\049_Цикл_for_Отрицательное_Направление.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\049_Цикл_for_Отрицательное_Направление\obj\Debug\049_Цикл_for_Отрицательное_Направление.pdb

@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\102_Метод_Substring\bin\Debug\102_Метод_Substring.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\102_Метод_Substring\bin\Debug\102_Метод_Substring.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\102_Метод_Substring\bin\Debug\102_Метод_Substring.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\102_Метод_Substring\obj\Debug\102_Метод_Substring.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\102_Метод_Substring\obj\Debug\102_Метод_Substring.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\102_Метод_Substring\obj\Debug\102_Метод_Substring.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\102_Метод_Substring\obj\Debug\102_Метод_Substring.pdb

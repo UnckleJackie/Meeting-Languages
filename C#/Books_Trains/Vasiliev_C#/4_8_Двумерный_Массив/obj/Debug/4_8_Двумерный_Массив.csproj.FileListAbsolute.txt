@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_8_Двумерный_Массив\bin\Debug\4_8_Двумерный_Массив.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_8_Двумерный_Массив\bin\Debug\4_8_Двумерный_Массив.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_8_Двумерный_Массив\bin\Debug\4_8_Двумерный_Массив.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_8_Двумерный_Массив\obj\Debug\4_8_Двумерный_Массив.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_8_Двумерный_Массив\obj\Debug\4_8_Двумерный_Массив.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_8_Двумерный_Массив\obj\Debug\4_8_Двумерный_Массив.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_8_Двумерный_Массив\obj\Debug\4_8_Двумерный_Массив.pdb

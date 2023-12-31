@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\075_Простой_Конструктор\bin\Debug\075_Простой_Конструктор.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\075_Простой_Конструктор\bin\Debug\075_Простой_Конструктор.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\075_Простой_Конструктор\bin\Debug\075_Простой_Конструктор.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\075_Простой_Конструктор\obj\Debug\075_Простой_Конструктор.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\075_Простой_Конструктор\obj\Debug\075_Простой_Конструктор.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\075_Простой_Конструктор\obj\Debug\075_Простой_Конструктор.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\075_Простой_Конструктор\obj\Debug\075_Простой_Конструктор.pdb

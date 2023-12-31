@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\076_Параметризированный_Конструктор\bin\Debug\076_Параметризированный_Конструктор.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\076_Параметризированный_Конструктор\bin\Debug\076_Параметризированный_Конструктор.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\076_Параметризированный_Конструктор\bin\Debug\076_Параметризированный_Конструктор.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\076_Параметризированный_Конструктор\obj\Debug\076_Параметризированный_Конструктор.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\076_Параметризированный_Конструктор\obj\Debug\076_Параметризированный_Конструктор.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\076_Параметризированный_Конструктор\obj\Debug\076_Параметризированный_Конструктор.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\076_Параметризированный_Конструктор\obj\Debug\076_Параметризированный_Конструктор.pdb

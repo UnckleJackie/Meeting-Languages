@@ -1,0 +1,4 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\004_\obj\Debug\net8.0\004_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\004_\obj\Debug\net8.0\004_.AssemblyInfoInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\004_\obj\Debug\net8.0\004_.AssemblyInfo.cs
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\004_\obj\Debug\net8.0\004_.csproj.CoreCompileInputs.cache

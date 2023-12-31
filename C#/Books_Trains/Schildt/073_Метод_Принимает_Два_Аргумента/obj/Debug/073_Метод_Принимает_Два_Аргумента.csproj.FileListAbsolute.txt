@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\073_Метод_Принимает_Два_Аргумента\bin\Debug\073_Метод_Принимает_Два_Аргумента.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\073_Метод_Принимает_Два_Аргумента\bin\Debug\073_Метод_Принимает_Два_Аргумента.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\073_Метод_Принимает_Два_Аргумента\bin\Debug\073_Метод_Принимает_Два_Аргумента.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\073_Метод_Принимает_Два_Аргумента\obj\Debug\073_Метод_Принимает_Два_Аргумента.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\073_Метод_Принимает_Два_Аргумента\obj\Debug\073_Метод_Принимает_Два_Аргумента.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\073_Метод_Принимает_Два_Аргумента\obj\Debug\073_Метод_Принимает_Два_Аргумента.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\073_Метод_Принимает_Два_Аргумента\obj\Debug\073_Метод_Принимает_Два_Аргумента.pdb

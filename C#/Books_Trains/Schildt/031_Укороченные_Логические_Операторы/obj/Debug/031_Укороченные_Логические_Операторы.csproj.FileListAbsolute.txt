@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\031_Укороченные_Логические_Операторы\bin\Debug\031_Укороченные_Логические_Операторы.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\031_Укороченные_Логические_Операторы\bin\Debug\031_Укороченные_Логические_Операторы.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\031_Укороченные_Логические_Операторы\bin\Debug\031_Укороченные_Логические_Операторы.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\031_Укороченные_Логические_Операторы\obj\Debug\031_Укороченные_Логические_Операторы.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\031_Укороченные_Логические_Операторы\obj\Debug\031_Укороченные_Логические_Операторы.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\031_Укороченные_Логические_Операторы\obj\Debug\031_Укороченные_Логические_Операторы.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\031_Укороченные_Логические_Операторы\obj\Debug\031_Укороченные_Логические_Операторы.pdb

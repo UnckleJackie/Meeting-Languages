@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\099_Некоторое_Операции_Над_Строками\bin\Debug\099_Некоторое_Операции_Над_Строками.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\099_Некоторое_Операции_Над_Строками\bin\Debug\099_Некоторое_Операции_Над_Строками.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\099_Некоторое_Операции_Над_Строками\bin\Debug\099_Некоторое_Операции_Над_Строками.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\099_Некоторое_Операции_Над_Строками\obj\Debug\099_Некоторое_Операции_Над_Строками.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\099_Некоторое_Операции_Над_Строками\obj\Debug\099_Некоторое_Операции_Над_Строками.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\099_Некоторое_Операции_Над_Строками\obj\Debug\099_Некоторое_Операции_Над_Строками.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\099_Некоторое_Операции_Над_Строками\obj\Debug\099_Некоторое_Операции_Над_Строками.pdb

@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\Schildt_001\bin\Debug\Schildt_001.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\Schildt_001\bin\Debug\Schildt_001.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\Schildt_001\bin\Debug\Schildt_001.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\Schildt_001\obj\Debug\Schildt_001.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\Schildt_001\obj\Debug\Schildt_001.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\Schildt_001\obj\Debug\Schildt_001.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\Schildt_001\obj\Debug\Schildt_001.pdb

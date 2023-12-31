@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\017_Применяем_Команды_Форматирования\bin\Debug\017_Применяем_Команды_Форматирования.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\017_Применяем_Команды_Форматирования\bin\Debug\017_Применяем_Команды_Форматирования.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\017_Применяем_Команды_Форматирования\bin\Debug\017_Применяем_Команды_Форматирования.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\017_Применяем_Команды_Форматирования\obj\Debug\017_Применяем_Команды_Форматирования.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\017_Применяем_Команды_Форматирования\obj\Debug\017_Применяем_Команды_Форматирования.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\017_Применяем_Команды_Форматирования\obj\Debug\017_Применяем_Команды_Форматирования.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\017_Применяем_Команды_Форматирования\obj\Debug\017_Применяем_Команды_Форматирования.pdb

@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_1_Знакомство_со_Статическими_Методами\bin\Debug\5_1_Знакомство_со_Статическими_Методами.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_1_Знакомство_со_Статическими_Методами\bin\Debug\5_1_Знакомство_со_Статическими_Методами.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_1_Знакомство_со_Статическими_Методами\bin\Debug\5_1_Знакомство_со_Статическими_Методами.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_1_Знакомство_со_Статическими_Методами\obj\Debug\5_1_Знакомство_со_Статическими_Методами.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_1_Знакомство_со_Статическими_Методами\obj\Debug\5_1_Знакомство_со_Статическими_Методами.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_1_Знакомство_со_Статическими_Методами\obj\Debug\5_1_Знакомство_со_Статическими_Методами.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_1_Знакомство_со_Статическими_Методами\obj\Debug\5_1_Знакомство_со_Статическими_Методами.pdb

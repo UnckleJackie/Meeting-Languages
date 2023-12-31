@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\045_Конструкция_if_else_if\bin\Debug\045_Конструкция_if_else_if.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\045_Конструкция_if_else_if\bin\Debug\045_Конструкция_if_else_if.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\045_Конструкция_if_else_if\bin\Debug\045_Конструкция_if_else_if.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\045_Конструкция_if_else_if\obj\Debug\045_Конструкция_if_else_if.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\045_Конструкция_if_else_if\obj\Debug\045_Конструкция_if_else_if.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\045_Конструкция_if_else_if\obj\Debug\045_Конструкция_if_else_if.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\045_Конструкция_if_else_if\obj\Debug\045_Конструкция_if_else_if.pdb

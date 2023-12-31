@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\004_Площадь_круга\bin\Debug\004_Площадь_круга.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\004_Площадь_круга\bin\Debug\004_Площадь_круга.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\004_Площадь_круга\bin\Debug\004_Площадь_круга.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\004_Площадь_круга\obj\Debug\004_Площадь_круга.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\004_Площадь_круга\obj\Debug\004_Площадь_круга.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\004_Площадь_круга\obj\Debug\004_Площадь_круга.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\004_Площадь_круга\obj\Debug\004_Площадь_круга.pdb

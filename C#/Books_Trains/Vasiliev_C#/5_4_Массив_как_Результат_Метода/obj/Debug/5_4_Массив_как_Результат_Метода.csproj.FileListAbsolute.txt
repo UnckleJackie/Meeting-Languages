@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_4_Массив_как_Результат_Метода\bin\Debug\5_4_Массив_как_Результат_Метода.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_4_Массив_как_Результат_Метода\bin\Debug\5_4_Массив_как_Результат_Метода.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_4_Массив_как_Результат_Метода\bin\Debug\5_4_Массив_как_Результат_Метода.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_4_Массив_как_Результат_Метода\obj\Debug\5_4_Массив_как_Результат_Метода.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_4_Массив_как_Результат_Метода\obj\Debug\5_4_Массив_как_Результат_Метода.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_4_Массив_как_Результат_Метода\obj\Debug\5_4_Массив_как_Результат_Метода.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_4_Массив_как_Результат_Метода\obj\Debug\5_4_Массив_как_Результат_Метода.pdb

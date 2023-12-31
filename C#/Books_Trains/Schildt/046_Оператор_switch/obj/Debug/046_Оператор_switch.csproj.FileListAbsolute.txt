@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\046_Оператор_switch\bin\Debug\046_Оператор_switch.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\046_Оператор_switch\bin\Debug\046_Оператор_switch.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\046_Оператор_switch\bin\Debug\046_Оператор_switch.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\046_Оператор_switch\obj\Debug\046_Оператор_switch.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\046_Оператор_switch\obj\Debug\046_Оператор_switch.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\046_Оператор_switch\obj\Debug\046_Оператор_switch.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\046_Оператор_switch\obj\Debug\046_Оператор_switch.pdb

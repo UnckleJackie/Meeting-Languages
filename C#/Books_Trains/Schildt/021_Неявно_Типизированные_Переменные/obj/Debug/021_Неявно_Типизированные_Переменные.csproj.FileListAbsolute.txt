@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\021_Неявно_Типизированные_Переменные\obj\Debug\021_Неявно_Типизированные_Переменные.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\021_Неявно_Типизированные_Переменные\obj\Debug\021_Неявно_Типизированные_Переменные.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\021_Неявно_Типизированные_Переменные\bin\Debug\021_Неявно_Типизированные_Переменные.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\021_Неявно_Типизированные_Переменные\bin\Debug\021_Неявно_Типизированные_Переменные.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\021_Неявно_Типизированные_Переменные\bin\Debug\021_Неявно_Типизированные_Переменные.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\021_Неявно_Типизированные_Переменные\obj\Debug\021_Неявно_Типизированные_Переменные.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\021_Неявно_Типизированные_Переменные\obj\Debug\021_Неявно_Типизированные_Переменные.pdb

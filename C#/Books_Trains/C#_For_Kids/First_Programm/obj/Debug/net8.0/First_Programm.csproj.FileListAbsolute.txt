@@ -1,0 +1,14 @@
+c:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\First_Programm\bin\Debug\net8.0\First_Programm.exe
+c:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\First_Programm\bin\Debug\net8.0\First_Programm.deps.json
+c:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\First_Programm\bin\Debug\net8.0\First_Programm.runtimeconfig.json
+c:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\First_Programm\bin\Debug\net8.0\First_Programm.dll
+c:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\First_Programm\bin\Debug\net8.0\First_Programm.pdb
+c:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\First_Programm\obj\Debug\net8.0\First_Programm.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\First_Programm\obj\Debug\net8.0\First_Programm.AssemblyInfoInputs.cache
+c:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\First_Programm\obj\Debug\net8.0\First_Programm.AssemblyInfo.cs
+c:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\First_Programm\obj\Debug\net8.0\First_Programm.csproj.CoreCompileInputs.cache
+c:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\First_Programm\obj\Debug\net8.0\First_Programm.dll
+c:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\First_Programm\obj\Debug\net8.0\refint\First_Programm.dll
+c:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\First_Programm\obj\Debug\net8.0\First_Programm.pdb
+c:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\First_Programm\obj\Debug\net8.0\First_Programm.genruntimeconfig.cache
+c:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\First_Programm\obj\Debug\net8.0\ref\First_Programm.dll

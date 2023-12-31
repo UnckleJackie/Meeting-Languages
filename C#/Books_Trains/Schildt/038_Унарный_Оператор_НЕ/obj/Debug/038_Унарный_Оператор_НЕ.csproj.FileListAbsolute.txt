@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\038_Унарный_Оператор_НЕ\bin\Debug\038_Унарный_Оператор_НЕ.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\038_Унарный_Оператор_НЕ\bin\Debug\038_Унарный_Оператор_НЕ.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\038_Унарный_Оператор_НЕ\bin\Debug\038_Унарный_Оператор_НЕ.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\038_Унарный_Оператор_НЕ\obj\Debug\038_Унарный_Оператор_НЕ.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\038_Унарный_Оператор_НЕ\obj\Debug\038_Унарный_Оператор_НЕ.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\038_Унарный_Оператор_НЕ\obj\Debug\038_Унарный_Оператор_НЕ.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\038_Унарный_Оператор_НЕ\obj\Debug\038_Унарный_Оператор_НЕ.pdb

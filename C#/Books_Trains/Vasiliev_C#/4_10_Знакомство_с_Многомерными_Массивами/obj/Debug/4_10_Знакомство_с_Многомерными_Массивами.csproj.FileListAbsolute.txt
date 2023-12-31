@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_10_Знакомство_с_Многомерными_Массивами\bin\Debug\4_10_Знакомство_с_Многомерными_Массивами.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_10_Знакомство_с_Многомерными_Массивами\bin\Debug\4_10_Знакомство_с_Многомерными_Массивами.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_10_Знакомство_с_Многомерными_Массивами\bin\Debug\4_10_Знакомство_с_Многомерными_Массивами.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_10_Знакомство_с_Многомерными_Массивами\obj\Debug\4_10_Знакомство_с_Многомерными_Массивами.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_10_Знакомство_с_Многомерными_Массивами\obj\Debug\4_10_Знакомство_с_Многомерными_Массивами.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_10_Знакомство_с_Многомерными_Массивами\obj\Debug\4_10_Знакомство_с_Многомерными_Массивами.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_10_Знакомство_с_Многомерными_Массивами\obj\Debug\4_10_Знакомство_с_Многомерными_Массивами.pdb

@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\BootCamp\001_Буткемп\bin\Debug\001_Буткемп.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\BootCamp\001_Буткемп\bin\Debug\001_Буткемп.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\BootCamp\001_Буткемп\bin\Debug\001_Буткемп.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\BootCamp\001_Буткемп\obj\Debug\001_Буткемп.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\BootCamp\001_Буткемп\obj\Debug\001_Буткемп.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\BootCamp\001_Буткемп\obj\Debug\001_Буткемп.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\BootCamp\001_Буткемп\obj\Debug\001_Буткемп.pdb

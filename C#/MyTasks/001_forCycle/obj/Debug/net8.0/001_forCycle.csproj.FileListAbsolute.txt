@@ -1,0 +1,14 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\MyTasks\001_forCycle\bin\Debug\net8.0\001_forCycle.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\MyTasks\001_forCycle\bin\Debug\net8.0\001_forCycle.deps.json
+C:\Users\anech\Desktop\Meeting_Languages\C#\MyTasks\001_forCycle\bin\Debug\net8.0\001_forCycle.runtimeconfig.json
+C:\Users\anech\Desktop\Meeting_Languages\C#\MyTasks\001_forCycle\bin\Debug\net8.0\001_forCycle.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\MyTasks\001_forCycle\bin\Debug\net8.0\001_forCycle.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\MyTasks\001_forCycle\obj\Debug\net8.0\001_forCycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anech\Desktop\Meeting_Languages\C#\MyTasks\001_forCycle\obj\Debug\net8.0\001_forCycle.AssemblyInfoInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\MyTasks\001_forCycle\obj\Debug\net8.0\001_forCycle.AssemblyInfo.cs
+C:\Users\anech\Desktop\Meeting_Languages\C#\MyTasks\001_forCycle\obj\Debug\net8.0\001_forCycle.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\MyTasks\001_forCycle\obj\Debug\net8.0\001_forCycle.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\MyTasks\001_forCycle\obj\Debug\net8.0\refint\001_forCycle.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\MyTasks\001_forCycle\obj\Debug\net8.0\001_forCycle.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\MyTasks\001_forCycle\obj\Debug\net8.0\001_forCycle.genruntimeconfig.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\MyTasks\001_forCycle\obj\Debug\net8.0\ref\001_forCycle.dll

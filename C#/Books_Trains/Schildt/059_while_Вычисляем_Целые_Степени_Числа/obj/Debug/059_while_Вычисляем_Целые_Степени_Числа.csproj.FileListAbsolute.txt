@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\059_while_Вычисляем_Целые_Степени_Числа\bin\Debug\059_while_Вычисляем_Целые_Степени_Числа.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\059_while_Вычисляем_Целые_Степени_Числа\bin\Debug\059_while_Вычисляем_Целые_Степени_Числа.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\059_while_Вычисляем_Целые_Степени_Числа\bin\Debug\059_while_Вычисляем_Целые_Степени_Числа.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\059_while_Вычисляем_Целые_Степени_Числа\obj\Debug\059_while_Вычисляем_Целые_Степени_Числа.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\059_while_Вычисляем_Целые_Степени_Числа\obj\Debug\059_while_Вычисляем_Целые_Степени_Числа.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\059_while_Вычисляем_Целые_Степени_Числа\obj\Debug\059_while_Вычисляем_Целые_Степени_Числа.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\059_while_Вычисляем_Целые_Степени_Числа\obj\Debug\059_while_Вычисляем_Целые_Степени_Числа.pdb

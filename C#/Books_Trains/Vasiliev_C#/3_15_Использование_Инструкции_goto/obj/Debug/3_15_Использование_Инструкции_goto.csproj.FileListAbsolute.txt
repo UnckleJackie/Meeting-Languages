@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_15_Использование_Инструкции_goto\bin\Debug\3_15_Использование_Инструкции_goto.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_15_Использование_Инструкции_goto\bin\Debug\3_15_Использование_Инструкции_goto.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_15_Использование_Инструкции_goto\bin\Debug\3_15_Использование_Инструкции_goto.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_15_Использование_Инструкции_goto\obj\Debug\3_15_Использование_Инструкции_goto.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_15_Использование_Инструкции_goto\obj\Debug\3_15_Использование_Инструкции_goto.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_15_Использование_Инструкции_goto\obj\Debug\3_15_Использование_Инструкции_goto.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_15_Использование_Инструкции_goto\obj\Debug\3_15_Использование_Инструкции_goto.pdb

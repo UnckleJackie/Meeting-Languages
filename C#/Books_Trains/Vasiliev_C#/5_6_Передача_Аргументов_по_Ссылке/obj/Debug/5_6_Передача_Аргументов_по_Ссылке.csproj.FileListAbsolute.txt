@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_6_Передача_Аргументов_по_Ссылке\bin\Debug\5_6_Передача_Аргументов_по_Ссылке.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_6_Передача_Аргументов_по_Ссылке\bin\Debug\5_6_Передача_Аргументов_по_Ссылке.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_6_Передача_Аргументов_по_Ссылке\bin\Debug\5_6_Передача_Аргументов_по_Ссылке.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_6_Передача_Аргументов_по_Ссылке\obj\Debug\5_6_Передача_Аргументов_по_Ссылке.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_6_Передача_Аргументов_по_Ссылке\obj\Debug\5_6_Передача_Аргументов_по_Ссылке.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_6_Передача_Аргументов_по_Ссылке\obj\Debug\5_6_Передача_Аргументов_по_Ссылке.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_6_Передача_Аргументов_по_Ссылке\obj\Debug\5_6_Передача_Аргументов_по_Ссылке.pdb

@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\072_Применение_Параметров_В_Методе\bin\Debug\072_Применение_Параметров_В_Методе.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\072_Применение_Параметров_В_Методе\bin\Debug\072_Применение_Параметров_В_Методе.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\072_Применение_Параметров_В_Методе\bin\Debug\072_Применение_Параметров_В_Методе.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\072_Применение_Параметров_В_Методе\obj\Debug\072_Применение_Параметров_В_Методе.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\072_Применение_Параметров_В_Методе\obj\Debug\072_Применение_Параметров_В_Методе.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\072_Применение_Параметров_В_Методе\obj\Debug\072_Применение_Параметров_В_Методе.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\072_Применение_Параметров_В_Методе\obj\Debug\072_Применение_Параметров_В_Методе.pdb

@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\100_Массивы_Строк\bin\Debug\100_Массивы_Строк.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\100_Массивы_Строк\bin\Debug\100_Массивы_Строк.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\100_Массивы_Строк\bin\Debug\100_Массивы_Строк.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\100_Массивы_Строк\obj\Debug\100_Массивы_Строк.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\100_Массивы_Строк\obj\Debug\100_Массивы_Строк.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\100_Массивы_Строк\obj\Debug\100_Массивы_Строк.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\100_Массивы_Строк\obj\Debug\100_Массивы_Строк.pdb

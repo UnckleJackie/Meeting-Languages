@@ -1,0 +1,16 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_16_Знакомство_с_Перехватом_Исключений_try_catch\bin\Debug\net6.0-windows\3_16_Знакомство_с_Перехватом_Исключений_try_catch.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_16_Знакомство_с_Перехватом_Исключений_try_catch\bin\Debug\net6.0-windows\3_16_Знакомство_с_Перехватом_Исключений_try_catch.deps.json
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_16_Знакомство_с_Перехватом_Исключений_try_catch\bin\Debug\net6.0-windows\3_16_Знакомство_с_Перехватом_Исключений_try_catch.runtimeconfig.json
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_16_Знакомство_с_Перехватом_Исключений_try_catch\bin\Debug\net6.0-windows\3_16_Знакомство_с_Перехватом_Исключений_try_catch.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_16_Знакомство_с_Перехватом_Исключений_try_catch\bin\Debug\net6.0-windows\3_16_Знакомство_с_Перехватом_Исключений_try_catch.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_16_Знакомство_с_Перехватом_Исключений_try_catch\obj\Debug\net6.0-windows\_3_16_Знакомство_с_Перехватом_Исключений_try_catch.Form1.resources
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_16_Знакомство_с_Перехватом_Исключений_try_catch\obj\Debug\net6.0-windows\3_16_Знакомство_с_Перехватом_Исключений_try_catch.csproj.GenerateResource.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_16_Знакомство_с_Перехватом_Исключений_try_catch\obj\Debug\net6.0-windows\3_16_Знакомство_с_Перехватом_Исключений_try_catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_16_Знакомство_с_Перехватом_Исключений_try_catch\obj\Debug\net6.0-windows\3_16_Знакомство_с_Перехватом_Исключений_try_catch.AssemblyInfoInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_16_Знакомство_с_Перехватом_Исключений_try_catch\obj\Debug\net6.0-windows\3_16_Знакомство_с_Перехватом_Исключений_try_catch.AssemblyInfo.cs
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_16_Знакомство_с_Перехватом_Исключений_try_catch\obj\Debug\net6.0-windows\3_16_Знакомство_с_Перехватом_Исключений_try_catch.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_16_Знакомство_с_Перехватом_Исключений_try_catch\obj\Debug\net6.0-windows\3_16_Знакомство_с_Перехватом_Исключений_try_catch.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_16_Знакомство_с_Перехватом_Исключений_try_catch\obj\Debug\net6.0-windows\refint\3_16_Знакомство_с_Перехватом_Исключений_try_catch.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_16_Знакомство_с_Перехватом_Исключений_try_catch\obj\Debug\net6.0-windows\3_16_Знакомство_с_Перехватом_Исключений_try_catch.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_16_Знакомство_с_Перехватом_Исключений_try_catch\obj\Debug\net6.0-windows\3_16_Знакомство_с_Перехватом_Исключений_try_catch.genruntimeconfig.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_16_Знакомство_с_Перехватом_Исключений_try_catch\obj\Debug\net6.0-windows\ref\3_16_Знакомство_с_Перехватом_Исключений_try_catch.dll

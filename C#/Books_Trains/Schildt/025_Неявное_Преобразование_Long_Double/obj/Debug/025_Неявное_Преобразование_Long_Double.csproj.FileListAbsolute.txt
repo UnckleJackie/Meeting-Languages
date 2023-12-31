@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\025_Неявное_Преобразование_Long_Double\bin\Debug\025_Неявное_Преобразование_Long_Double.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\025_Неявное_Преобразование_Long_Double\bin\Debug\025_Неявное_Преобразование_Long_Double.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\025_Неявное_Преобразование_Long_Double\bin\Debug\025_Неявное_Преобразование_Long_Double.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\025_Неявное_Преобразование_Long_Double\obj\Debug\025_Неявное_Преобразование_Long_Double.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\025_Неявное_Преобразование_Long_Double\obj\Debug\025_Неявное_Преобразование_Long_Double.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\025_Неявное_Преобразование_Long_Double\obj\Debug\025_Неявное_Преобразование_Long_Double.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\025_Неявное_Преобразование_Long_Double\obj\Debug\025_Неявное_Преобразование_Long_Double.pdb

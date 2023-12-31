@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\094_Оператор_Цикла_Foreach\bin\Debug\094_Оператор_Цикла_Foreach.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\094_Оператор_Цикла_Foreach\bin\Debug\094_Оператор_Цикла_Foreach.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\094_Оператор_Цикла_Foreach\bin\Debug\094_Оператор_Цикла_Foreach.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\094_Оператор_Цикла_Foreach\obj\Debug\094_Оператор_Цикла_Foreach.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\094_Оператор_Цикла_Foreach\obj\Debug\094_Оператор_Цикла_Foreach.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\094_Оператор_Цикла_Foreach\obj\Debug\094_Оператор_Цикла_Foreach.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\094_Оператор_Цикла_Foreach\obj\Debug\094_Оператор_Цикла_Foreach.pdb

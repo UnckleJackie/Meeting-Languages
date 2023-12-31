@@ -1,0 +1,16 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\005_Age\bin\Debug\net6.0-windows\005_Age.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\005_Age\bin\Debug\net6.0-windows\005_Age.deps.json
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\005_Age\bin\Debug\net6.0-windows\005_Age.runtimeconfig.json
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\005_Age\bin\Debug\net6.0-windows\005_Age.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\005_Age\bin\Debug\net6.0-windows\005_Age.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\005_Age\obj\Debug\net6.0-windows\_005_Age.Form1.resources
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\005_Age\obj\Debug\net6.0-windows\005_Age.csproj.GenerateResource.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\005_Age\obj\Debug\net6.0-windows\005_Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\005_Age\obj\Debug\net6.0-windows\005_Age.AssemblyInfoInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\005_Age\obj\Debug\net6.0-windows\005_Age.AssemblyInfo.cs
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\005_Age\obj\Debug\net6.0-windows\005_Age.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\005_Age\obj\Debug\net6.0-windows\005_Age.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\005_Age\obj\Debug\net6.0-windows\refint\005_Age.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\005_Age\obj\Debug\net6.0-windows\005_Age.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\005_Age\obj\Debug\net6.0-windows\005_Age.genruntimeconfig.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\005_Age\obj\Debug\net6.0-windows\ref\005_Age.dll

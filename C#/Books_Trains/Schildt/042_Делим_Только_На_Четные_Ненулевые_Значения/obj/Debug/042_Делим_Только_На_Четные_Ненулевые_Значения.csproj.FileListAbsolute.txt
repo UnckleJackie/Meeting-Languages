@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\042_Делим_Только_На_Четные_Ненулевые_Значения\bin\Debug\042_Делим_Только_На_Четные_Ненулевые_Значения.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\042_Делим_Только_На_Четные_Ненулевые_Значения\bin\Debug\042_Делим_Только_На_Четные_Ненулевые_Значения.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\042_Делим_Только_На_Четные_Ненулевые_Значения\bin\Debug\042_Делим_Только_На_Четные_Ненулевые_Значения.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\042_Делим_Только_На_Четные_Ненулевые_Значения\obj\Debug\042_Делим_Только_На_Четные_Ненулевые_Значения.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\042_Делим_Только_На_Четные_Ненулевые_Значения\obj\Debug\042_Делим_Только_На_Четные_Ненулевые_Значения.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\042_Делим_Только_На_Четные_Ненулевые_Значения\obj\Debug\042_Делим_Только_На_Четные_Ненулевые_Значения.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\042_Делим_Только_На_Четные_Ненулевые_Значения\obj\Debug\042_Делим_Только_На_Четные_Ненулевые_Значения.pdb

@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\067_Практическое_Применение_GoTo\bin\Debug\067_Практическое_Применение_GoTo.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\067_Практическое_Применение_GoTo\bin\Debug\067_Практическое_Применение_GoTo.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\067_Практическое_Применение_GoTo\bin\Debug\067_Практическое_Применение_GoTo.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\067_Практическое_Применение_GoTo\obj\Debug\067_Практическое_Применение_GoTo.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\067_Практическое_Применение_GoTo\obj\Debug\067_Практическое_Применение_GoTo.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\067_Практическое_Применение_GoTo\obj\Debug\067_Практическое_Применение_GoTo.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\067_Практическое_Применение_GoTo\obj\Debug\067_Практическое_Применение_GoTo.pdb

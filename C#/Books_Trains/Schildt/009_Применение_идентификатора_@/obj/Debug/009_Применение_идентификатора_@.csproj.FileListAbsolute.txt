@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\009_Применение_идентификатора_@\bin\Debug\009_Применение_идентификатора_@.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\009_Применение_идентификатора_@\bin\Debug\009_Применение_идентификатора_@.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\009_Применение_идентификатора_@\bin\Debug\009_Применение_идентификатора_@.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\009_Применение_идентификатора_@\obj\Debug\009_Применение_идентификатора_@.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\009_Применение_идентификатора_@\obj\Debug\009_Применение_идентификатора_@.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\009_Применение_идентификатора_@\obj\Debug\009_Применение_идентификатора_@.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\009_Применение_идентификатора_@\obj\Debug\009_Применение_идентификатора_@.pdb

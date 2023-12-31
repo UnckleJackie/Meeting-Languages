@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "041_Исключаем_Деление_На_Ноль", "041_Исключаем_Деление_На_Ноль.csproj", "{7AB6E1D6-FD45-467B-886A-8183D809FBBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AB6E1D6-FD45-467B-886A-8183D809FBBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB6E1D6-FD45-467B-886A-8183D809FBBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB6E1D6-FD45-467B-886A-8183D809FBBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB6E1D6-FD45-467B-886A-8183D809FBBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BA5C08C-B3D5-4B1E-BCEC-5EABB9C0EDE7}
+	EndGlobalSection
+EndGlobal

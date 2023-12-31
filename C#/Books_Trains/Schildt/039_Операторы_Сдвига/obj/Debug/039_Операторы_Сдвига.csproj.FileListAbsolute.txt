@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\039_Операторы_Сдвига\bin\Debug\039_Операторы_Сдвига.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\039_Операторы_Сдвига\bin\Debug\039_Операторы_Сдвига.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\039_Операторы_Сдвига\bin\Debug\039_Операторы_Сдвига.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\039_Операторы_Сдвига\obj\Debug\039_Операторы_Сдвига.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\039_Операторы_Сдвига\obj\Debug\039_Операторы_Сдвига.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\039_Операторы_Сдвига\obj\Debug\039_Операторы_Сдвига.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\039_Операторы_Сдвига\obj\Debug\039_Операторы_Сдвига.pdb

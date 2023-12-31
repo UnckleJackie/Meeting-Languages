@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_6_Сортировка_Массива_Методом_Пузырька\bin\Debug\4_6_Сортировка_Массива_Методом_Пузырька.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_6_Сортировка_Массива_Методом_Пузырька\bin\Debug\4_6_Сортировка_Массива_Методом_Пузырька.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_6_Сортировка_Массива_Методом_Пузырька\bin\Debug\4_6_Сортировка_Массива_Методом_Пузырька.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_6_Сортировка_Массива_Методом_Пузырька\obj\Debug\4_6_Сортировка_Массива_Методом_Пузырька.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_6_Сортировка_Массива_Методом_Пузырька\obj\Debug\4_6_Сортировка_Массива_Методом_Пузырька.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_6_Сортировка_Массива_Методом_Пузырька\obj\Debug\4_6_Сортировка_Массива_Методом_Пузырька.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_6_Сортировка_Массива_Методом_Пузырька\obj\Debug\4_6_Сортировка_Массива_Методом_Пузырька.pdb

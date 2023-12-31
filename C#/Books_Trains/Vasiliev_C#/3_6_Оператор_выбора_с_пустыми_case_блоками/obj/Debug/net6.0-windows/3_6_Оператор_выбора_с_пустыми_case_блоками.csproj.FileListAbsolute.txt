@@ -1,0 +1,16 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_6_Оператор_выбора_с_пустыми_case_блоками\bin\Debug\net6.0-windows\3_6_Оператор_выбора_с_пустыми_case_блоками.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_6_Оператор_выбора_с_пустыми_case_блоками\bin\Debug\net6.0-windows\3_6_Оператор_выбора_с_пустыми_case_блоками.deps.json
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_6_Оператор_выбора_с_пустыми_case_блоками\bin\Debug\net6.0-windows\3_6_Оператор_выбора_с_пустыми_case_блоками.runtimeconfig.json
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_6_Оператор_выбора_с_пустыми_case_блоками\bin\Debug\net6.0-windows\3_6_Оператор_выбора_с_пустыми_case_блоками.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_6_Оператор_выбора_с_пустыми_case_блоками\bin\Debug\net6.0-windows\3_6_Оператор_выбора_с_пустыми_case_блоками.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_6_Оператор_выбора_с_пустыми_case_блоками\obj\Debug\net6.0-windows\_3_6_Оператор_выбора_с_пустыми_case_блоками.Form1.resources
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_6_Оператор_выбора_с_пустыми_case_блоками\obj\Debug\net6.0-windows\3_6_Оператор_выбора_с_пустыми_case_блоками.csproj.GenerateResource.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_6_Оператор_выбора_с_пустыми_case_блоками\obj\Debug\net6.0-windows\3_6_Оператор_выбора_с_пустыми_case_блоками.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_6_Оператор_выбора_с_пустыми_case_блоками\obj\Debug\net6.0-windows\3_6_Оператор_выбора_с_пустыми_case_блоками.AssemblyInfoInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_6_Оператор_выбора_с_пустыми_case_блоками\obj\Debug\net6.0-windows\3_6_Оператор_выбора_с_пустыми_case_блоками.AssemblyInfo.cs
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_6_Оператор_выбора_с_пустыми_case_блоками\obj\Debug\net6.0-windows\3_6_Оператор_выбора_с_пустыми_case_блоками.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_6_Оператор_выбора_с_пустыми_case_блоками\obj\Debug\net6.0-windows\3_6_Оператор_выбора_с_пустыми_case_блоками.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_6_Оператор_выбора_с_пустыми_case_блоками\obj\Debug\net6.0-windows\refint\3_6_Оператор_выбора_с_пустыми_case_блоками.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_6_Оператор_выбора_с_пустыми_case_блоками\obj\Debug\net6.0-windows\3_6_Оператор_выбора_с_пустыми_case_блоками.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_6_Оператор_выбора_с_пустыми_case_блоками\obj\Debug\net6.0-windows\3_6_Оператор_выбора_с_пустыми_case_блоками.genruntimeconfig.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_6_Оператор_выбора_с_пустыми_case_блоками\obj\Debug\net6.0-windows\ref\3_6_Оператор_выбора_с_пустыми_case_блоками.dll

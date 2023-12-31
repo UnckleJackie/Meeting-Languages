@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Int_Double_Отличия", "003_Int_Double_Отличия.csproj", "{62D48242-01AA-45C4-80CC-E6A414AB2276}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62D48242-01AA-45C4-80CC-E6A414AB2276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D48242-01AA-45C4-80CC-E6A414AB2276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D48242-01AA-45C4-80CC-E6A414AB2276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D48242-01AA-45C4-80CC-E6A414AB2276}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4ED99E1B-3B11-470C-B290-C0BE0124190D}
+	EndGlobalSection
+EndGlobal

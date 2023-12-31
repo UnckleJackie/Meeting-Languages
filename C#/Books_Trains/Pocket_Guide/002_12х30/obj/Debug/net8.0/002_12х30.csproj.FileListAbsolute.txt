@@ -1,0 +1,14 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Pocket_Guide\002_12х30\bin\Debug\net8.0\002_12х30.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Pocket_Guide\002_12х30\bin\Debug\net8.0\002_12х30.deps.json
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Pocket_Guide\002_12х30\bin\Debug\net8.0\002_12х30.runtimeconfig.json
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Pocket_Guide\002_12х30\bin\Debug\net8.0\002_12х30.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Pocket_Guide\002_12х30\bin\Debug\net8.0\002_12х30.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Pocket_Guide\002_12х30\obj\Debug\net8.0\002_12х30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Pocket_Guide\002_12х30\obj\Debug\net8.0\002_12х30.AssemblyInfoInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Pocket_Guide\002_12х30\obj\Debug\net8.0\002_12х30.AssemblyInfo.cs
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Pocket_Guide\002_12х30\obj\Debug\net8.0\002_12х30.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Pocket_Guide\002_12х30\obj\Debug\net8.0\002_12х30.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Pocket_Guide\002_12х30\obj\Debug\net8.0\refint\002_12х30.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Pocket_Guide\002_12х30\obj\Debug\net8.0\002_12х30.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Pocket_Guide\002_12х30\obj\Debug\net8.0\002_12х30.genruntimeconfig.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Pocket_Guide\002_12х30\obj\Debug\net8.0\ref\002_12х30.dll

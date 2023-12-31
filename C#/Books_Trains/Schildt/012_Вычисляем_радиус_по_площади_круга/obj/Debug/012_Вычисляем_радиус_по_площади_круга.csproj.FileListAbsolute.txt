@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\012_Вычисляем_радиус_по_площади_круга\bin\Debug\012_Вычисляем_радиус_по_площади_круга.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\012_Вычисляем_радиус_по_площади_круга\bin\Debug\012_Вычисляем_радиус_по_площади_круга.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\012_Вычисляем_радиус_по_площади_круга\bin\Debug\012_Вычисляем_радиус_по_площади_круга.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\012_Вычисляем_радиус_по_площади_круга\obj\Debug\012_Вычисляем_радиус_по_площади_круга.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\012_Вычисляем_радиус_по_площади_круга\obj\Debug\012_Вычисляем_радиус_по_площади_круга.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\012_Вычисляем_радиус_по_площади_круга\obj\Debug\012_Вычисляем_радиус_по_площади_круга.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\012_Вычисляем_радиус_по_площади_круга\obj\Debug\012_Вычисляем_радиус_по_площади_круга.pdb

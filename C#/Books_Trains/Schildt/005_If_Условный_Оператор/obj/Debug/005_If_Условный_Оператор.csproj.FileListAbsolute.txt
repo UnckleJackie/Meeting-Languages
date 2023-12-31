@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\005_If_Условный_Оператор\bin\Debug\005_If_Условный_Оператор.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\005_If_Условный_Оператор\bin\Debug\005_If_Условный_Оператор.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\005_If_Условный_Оператор\bin\Debug\005_If_Условный_Оператор.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\005_If_Условный_Оператор\obj\Debug\005_If_Условный_Оператор.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\005_If_Условный_Оператор\obj\Debug\005_If_Условный_Оператор.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\005_If_Условный_Оператор\obj\Debug\005_If_Условный_Оператор.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\005_If_Условный_Оператор\obj\Debug\005_If_Условный_Оператор.pdb

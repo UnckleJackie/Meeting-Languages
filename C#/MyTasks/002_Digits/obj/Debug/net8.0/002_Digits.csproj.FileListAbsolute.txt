@@ -1,0 +1,14 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\MyTasks\002_Digits\bin\Debug\net8.0\002_Digits.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\MyTasks\002_Digits\bin\Debug\net8.0\002_Digits.deps.json
+C:\Users\anech\Desktop\Meeting_Languages\C#\MyTasks\002_Digits\bin\Debug\net8.0\002_Digits.runtimeconfig.json
+C:\Users\anech\Desktop\Meeting_Languages\C#\MyTasks\002_Digits\bin\Debug\net8.0\002_Digits.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\MyTasks\002_Digits\bin\Debug\net8.0\002_Digits.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\MyTasks\002_Digits\obj\Debug\net8.0\002_Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anech\Desktop\Meeting_Languages\C#\MyTasks\002_Digits\obj\Debug\net8.0\002_Digits.AssemblyInfoInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\MyTasks\002_Digits\obj\Debug\net8.0\002_Digits.AssemblyInfo.cs
+C:\Users\anech\Desktop\Meeting_Languages\C#\MyTasks\002_Digits\obj\Debug\net8.0\002_Digits.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\MyTasks\002_Digits\obj\Debug\net8.0\002_Digits.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\MyTasks\002_Digits\obj\Debug\net8.0\refint\002_Digits.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\MyTasks\002_Digits\obj\Debug\net8.0\002_Digits.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\MyTasks\002_Digits\obj\Debug\net8.0\002_Digits.genruntimeconfig.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\MyTasks\002_Digits\obj\Debug\net8.0\ref\002_Digits.dll

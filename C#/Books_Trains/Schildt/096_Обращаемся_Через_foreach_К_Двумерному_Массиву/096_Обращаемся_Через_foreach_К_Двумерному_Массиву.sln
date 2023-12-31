@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "096_Обращаемся_Через_foreach_К_Двумерному_Массиву", "096_Обращаемся_Через_foreach_К_Двумерному_Массиву.csproj", "{46765B96-08AD-4F57-BFB6-F9435B08510E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46765B96-08AD-4F57-BFB6-F9435B08510E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46765B96-08AD-4F57-BFB6-F9435B08510E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46765B96-08AD-4F57-BFB6-F9435B08510E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46765B96-08AD-4F57-BFB6-F9435B08510E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56A9AE61-EA02-4D4E-9D78-11B0D3BF385A}
+	EndGlobalSection
+EndGlobal

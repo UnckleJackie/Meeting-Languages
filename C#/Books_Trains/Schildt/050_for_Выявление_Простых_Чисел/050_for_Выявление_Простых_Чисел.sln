@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "050_for_Выявление_Простых_Чисел", "050_for_Выявление_Простых_Чисел.csproj", "{18B2DA23-4DE4-450B-ABF2-7A20A2F0FDC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18B2DA23-4DE4-450B-ABF2-7A20A2F0FDC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B2DA23-4DE4-450B-ABF2-7A20A2F0FDC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B2DA23-4DE4-450B-ABF2-7A20A2F0FDC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B2DA23-4DE4-450B-ABF2-7A20A2F0FDC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94852642-3022-4CAB-8912-A7E6E0334107}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\028_Инкремент_Постфиксная_Префиксная_Формы\bin\Debug\028_Инкремент_Постфиксная_Префиксная_Формы.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\028_Инкремент_Постфиксная_Префиксная_Формы\bin\Debug\028_Инкремент_Постфиксная_Префиксная_Формы.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\028_Инкремент_Постфиксная_Префиксная_Формы\bin\Debug\028_Инкремент_Постфиксная_Префиксная_Формы.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\028_Инкремент_Постфиксная_Префиксная_Формы\obj\Debug\028_Инкремент_Постфиксная_Префиксная_Формы.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\028_Инкремент_Постфиксная_Префиксная_Формы\obj\Debug\028_Инкремент_Постфиксная_Префиксная_Формы.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\028_Инкремент_Постфиксная_Префиксная_Формы\obj\Debug\028_Инкремент_Постфиксная_Префиксная_Формы.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\028_Инкремент_Постфиксная_Префиксная_Формы\obj\Debug\028_Инкремент_Постфиксная_Префиксная_Формы.pdb

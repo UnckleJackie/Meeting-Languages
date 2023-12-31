@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\078_Применение_Деструктора\bin\Debug\078_Применение_Деструктора.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\078_Применение_Деструктора\bin\Debug\078_Применение_Деструктора.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\078_Применение_Деструктора\bin\Debug\078_Применение_Деструктора.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\078_Применение_Деструктора\obj\Debug\078_Применение_Деструктора.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\078_Применение_Деструктора\obj\Debug\078_Применение_Деструктора.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\078_Применение_Деструктора\obj\Debug\078_Применение_Деструктора.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\078_Применение_Деструктора\obj\Debug\078_Применение_Деструктора.pdb

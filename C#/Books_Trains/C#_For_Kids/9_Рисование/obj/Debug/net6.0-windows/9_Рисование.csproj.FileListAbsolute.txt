@@ -1,0 +1,16 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\9_Рисование\obj\Debug\net6.0-windows\_9_Рисование.Form1.resources
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\9_Рисование\obj\Debug\net6.0-windows\9_Рисование.csproj.GenerateResource.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\9_Рисование\obj\Debug\net6.0-windows\9_Рисование.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\9_Рисование\obj\Debug\net6.0-windows\9_Рисование.AssemblyInfoInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\9_Рисование\obj\Debug\net6.0-windows\9_Рисование.AssemblyInfo.cs
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\9_Рисование\obj\Debug\net6.0-windows\9_Рисование.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\9_Рисование\bin\Debug\net6.0-windows\9_Рисование.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\9_Рисование\bin\Debug\net6.0-windows\9_Рисование.deps.json
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\9_Рисование\bin\Debug\net6.0-windows\9_Рисование.runtimeconfig.json
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\9_Рисование\bin\Debug\net6.0-windows\9_Рисование.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\9_Рисование\bin\Debug\net6.0-windows\9_Рисование.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\9_Рисование\obj\Debug\net6.0-windows\9_Рисование.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\9_Рисование\obj\Debug\net6.0-windows\refint\9_Рисование.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\9_Рисование\obj\Debug\net6.0-windows\9_Рисование.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\9_Рисование\obj\Debug\net6.0-windows\9_Рисование.genruntimeconfig.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\9_Рисование\obj\Debug\net6.0-windows\ref\9_Рисование.dll

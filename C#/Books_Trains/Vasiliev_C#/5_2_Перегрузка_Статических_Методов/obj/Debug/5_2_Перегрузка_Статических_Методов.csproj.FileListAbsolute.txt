@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_2_Перегрузка_Статических_Методов\bin\Debug\5_2_Перегрузка_Статических_Методов.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_2_Перегрузка_Статических_Методов\bin\Debug\5_2_Перегрузка_Статических_Методов.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_2_Перегрузка_Статических_Методов\bin\Debug\5_2_Перегрузка_Статических_Методов.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_2_Перегрузка_Статических_Методов\obj\Debug\5_2_Перегрузка_Статических_Методов.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_2_Перегрузка_Статических_Методов\obj\Debug\5_2_Перегрузка_Статических_Методов.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_2_Перегрузка_Статических_Методов\obj\Debug\5_2_Перегрузка_Статических_Методов.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_2_Перегрузка_Статических_Методов\obj\Debug\5_2_Перегрузка_Статических_Методов.pdb

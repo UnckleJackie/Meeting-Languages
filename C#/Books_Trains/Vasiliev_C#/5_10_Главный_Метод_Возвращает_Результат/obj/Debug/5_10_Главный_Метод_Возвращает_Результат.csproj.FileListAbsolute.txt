@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_10_Главный_Метод_Возвращает_Результат\bin\Debug\5_10_Главный_Метод_Возвращает_Результат.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_10_Главный_Метод_Возвращает_Результат\bin\Debug\5_10_Главный_Метод_Возвращает_Результат.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_10_Главный_Метод_Возвращает_Результат\bin\Debug\5_10_Главный_Метод_Возвращает_Результат.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_10_Главный_Метод_Возвращает_Результат\obj\Debug\5_10_Главный_Метод_Возвращает_Результат.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_10_Главный_Метод_Возвращает_Результат\obj\Debug\5_10_Главный_Метод_Возвращает_Результат.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_10_Главный_Метод_Возвращает_Результат\obj\Debug\5_10_Главный_Метод_Возвращает_Результат.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_10_Главный_Метод_Возвращает_Результат\obj\Debug\5_10_Главный_Метод_Возвращает_Результат.pdb

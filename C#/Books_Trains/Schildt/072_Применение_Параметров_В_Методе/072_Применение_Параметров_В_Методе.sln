@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "072_Применение_Параметров_В_Методе", "072_Применение_Параметров_В_Методе.csproj", "{4C278871-F290-46BC-9F9E-A555E2DDBA16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C278871-F290-46BC-9F9E-A555E2DDBA16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C278871-F290-46BC-9F9E-A555E2DDBA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C278871-F290-46BC-9F9E-A555E2DDBA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C278871-F290-46BC-9F9E-A555E2DDBA16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E5A0159-0D0B-4A62-A71C-F977159E3BA9}
+	EndGlobalSection
+EndGlobal

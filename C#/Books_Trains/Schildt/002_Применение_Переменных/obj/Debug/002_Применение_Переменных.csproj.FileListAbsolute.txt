@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\002_Применение_Переменных\bin\Debug\002_Применение_Переменных.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\002_Применение_Переменных\bin\Debug\002_Применение_Переменных.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\002_Применение_Переменных\bin\Debug\002_Применение_Переменных.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\002_Применение_Переменных\obj\Debug\002_Применение_Переменных.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\002_Применение_Переменных\obj\Debug\002_Применение_Переменных.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\002_Применение_Переменных\obj\Debug\002_Применение_Переменных.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\002_Применение_Переменных\obj\Debug\002_Применение_Переменных.pdb

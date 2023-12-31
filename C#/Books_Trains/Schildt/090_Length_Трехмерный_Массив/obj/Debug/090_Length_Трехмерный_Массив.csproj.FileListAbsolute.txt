@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\090_Length_Трехмерный_Массив\bin\Debug\090_Length_Трехмерный_Массив.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\090_Length_Трехмерный_Массив\bin\Debug\090_Length_Трехмерный_Массив.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\090_Length_Трехмерный_Массив\bin\Debug\090_Length_Трехмерный_Массив.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\090_Length_Трехмерный_Массив\obj\Debug\090_Length_Трехмерный_Массив.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\090_Length_Трехмерный_Массив\obj\Debug\090_Length_Трехмерный_Массив.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\090_Length_Трехмерный_Массив\obj\Debug\090_Length_Трехмерный_Массив.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\090_Length_Трехмерный_Массив\obj\Debug\090_Length_Трехмерный_Массив.pdb

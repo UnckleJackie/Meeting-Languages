@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\082_Среднее_Арифметическое_Ряда_Значений\bin\Debug\082_Среднее_Арифметическое_Ряда_Значений.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\082_Среднее_Арифметическое_Ряда_Значений\bin\Debug\082_Среднее_Арифметическое_Ряда_Значений.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\082_Среднее_Арифметическое_Ряда_Значений\bin\Debug\082_Среднее_Арифметическое_Ряда_Значений.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\082_Среднее_Арифметическое_Ряда_Значений\obj\Debug\082_Среднее_Арифметическое_Ряда_Значений.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\082_Среднее_Арифметическое_Ряда_Значений\obj\Debug\082_Среднее_Арифметическое_Ряда_Значений.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\082_Среднее_Арифметическое_Ряда_Значений\obj\Debug\082_Среднее_Арифметическое_Ряда_Значений.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\082_Среднее_Арифметическое_Ряда_Значений\obj\Debug\082_Среднее_Арифметическое_Ряда_Значений.pdb

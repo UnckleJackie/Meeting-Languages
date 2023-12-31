@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\103_Применение_Строк_в_Операторах_Switch\bin\Debug\103_Применение_Строк_в_Операторах_Switch.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\103_Применение_Строк_в_Операторах_Switch\bin\Debug\103_Применение_Строк_в_Операторах_Switch.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\103_Применение_Строк_в_Операторах_Switch\bin\Debug\103_Применение_Строк_в_Операторах_Switch.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\103_Применение_Строк_в_Операторах_Switch\obj\Debug\103_Применение_Строк_в_Операторах_Switch.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\103_Применение_Строк_в_Операторах_Switch\obj\Debug\103_Применение_Строк_в_Операторах_Switch.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\103_Применение_Строк_в_Операторах_Switch\obj\Debug\103_Применение_Строк_в_Операторах_Switch.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\103_Применение_Строк_в_Операторах_Switch\obj\Debug\103_Применение_Строк_в_Операторах_Switch.pdb

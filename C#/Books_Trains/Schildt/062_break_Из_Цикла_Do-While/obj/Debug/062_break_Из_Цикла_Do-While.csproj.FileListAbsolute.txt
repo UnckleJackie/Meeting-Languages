@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\062_break_Из_Цикла_Do-While\bin\Debug\062_break_Из_Цикла_Do-While.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\062_break_Из_Цикла_Do-While\bin\Debug\062_break_Из_Цикла_Do-While.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\062_break_Из_Цикла_Do-While\bin\Debug\062_break_Из_Цикла_Do-While.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\062_break_Из_Цикла_Do-While\obj\Debug\062_break_Из_Цикла_Do-While.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\062_break_Из_Цикла_Do-While\obj\Debug\062_break_Из_Цикла_Do-While.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\062_break_Из_Цикла_Do-While\obj\Debug\062_break_Из_Цикла_Do-While.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\062_break_Из_Цикла_Do-While\obj\Debug\062_break_Из_Цикла_Do-While.pdb

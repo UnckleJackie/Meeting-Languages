@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_7_Неинициализированный_Аргумент\bin\Debug\5_7_Неинициализированный_Аргумент.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_7_Неинициализированный_Аргумент\bin\Debug\5_7_Неинициализированный_Аргумент.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_7_Неинициализированный_Аргумент\bin\Debug\5_7_Неинициализированный_Аргумент.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_7_Неинициализированный_Аргумент\obj\Debug\5_7_Неинициализированный_Аргумент.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_7_Неинициализированный_Аргумент\obj\Debug\5_7_Неинициализированный_Аргумент.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_7_Неинициализированный_Аргумент\obj\Debug\5_7_Неинициализированный_Аргумент.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_7_Неинициализированный_Аргумент\obj\Debug\5_7_Неинициализированный_Аргумент.pdb

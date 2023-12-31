@@ -1,0 +1,14 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#1330Pages\001_Calc\bin\Debug\net8.0\001_Calc.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#1330Pages\001_Calc\bin\Debug\net8.0\001_Calc.deps.json
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#1330Pages\001_Calc\bin\Debug\net8.0\001_Calc.runtimeconfig.json
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#1330Pages\001_Calc\bin\Debug\net8.0\001_Calc.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#1330Pages\001_Calc\bin\Debug\net8.0\001_Calc.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#1330Pages\001_Calc\obj\Debug\net8.0\001_Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#1330Pages\001_Calc\obj\Debug\net8.0\001_Calc.AssemblyInfoInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#1330Pages\001_Calc\obj\Debug\net8.0\001_Calc.AssemblyInfo.cs
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#1330Pages\001_Calc\obj\Debug\net8.0\001_Calc.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#1330Pages\001_Calc\obj\Debug\net8.0\001_Calc.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#1330Pages\001_Calc\obj\Debug\net8.0\refint\001_Calc.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#1330Pages\001_Calc\obj\Debug\net8.0\001_Calc.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#1330Pages\001_Calc\obj\Debug\net8.0\001_Calc.genruntimeconfig.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#1330Pages\001_Calc\obj\Debug\net8.0\ref\001_Calc.dll

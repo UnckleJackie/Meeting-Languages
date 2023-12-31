@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\047_Switch_Case_Char\bin\Debug\047_Switch_Case_Char.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\047_Switch_Case_Char\bin\Debug\047_Switch_Case_Char.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\047_Switch_Case_Char\bin\Debug\047_Switch_Case_Char.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\047_Switch_Case_Char\obj\Debug\047_Switch_Case_Char.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\047_Switch_Case_Char\obj\Debug\047_Switch_Case_Char.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\047_Switch_Case_Char\obj\Debug\047_Switch_Case_Char.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\047_Switch_Case_Char\obj\Debug\047_Switch_Case_Char.pdb

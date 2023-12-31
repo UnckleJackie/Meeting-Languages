@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\016_Применение_типа_bool\bin\Debug\016_Применение_типа_bool.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\016_Применение_типа_bool\bin\Debug\016_Применение_типа_bool.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\016_Применение_типа_bool\bin\Debug\016_Применение_типа_bool.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\016_Применение_типа_bool\obj\Debug\016_Применение_типа_bool.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\016_Применение_типа_bool\obj\Debug\016_Применение_типа_bool.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\016_Применение_типа_bool\obj\Debug\016_Применение_типа_bool.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\016_Применение_типа_bool\obj\Debug\016_Применение_типа_bool.pdb

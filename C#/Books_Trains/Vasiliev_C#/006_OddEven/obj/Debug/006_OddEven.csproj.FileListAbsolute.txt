@@ -1,0 +1,9 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\006_OddEven\bin\Debug\006_OddEven.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\006_OddEven\bin\Debug\006_OddEven.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\006_OddEven\bin\Debug\006_OddEven.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\006_OddEven\obj\Debug\006_OddEven.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\006_OddEven\obj\Debug\_006_OddEven.Properties.Resources.resources
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\006_OddEven\obj\Debug\006_OddEven.csproj.GenerateResource.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\006_OddEven\obj\Debug\006_OddEven.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\006_OddEven\obj\Debug\006_OddEven.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\006_OddEven\obj\Debug\006_OddEven.pdb

@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\089_Применение_Свойства_Length\bin\Debug\089_Применение_Свойства_Length.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\089_Применение_Свойства_Length\bin\Debug\089_Применение_Свойства_Length.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\089_Применение_Свойства_Length\bin\Debug\089_Применение_Свойства_Length.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\089_Применение_Свойства_Length\obj\Debug\089_Применение_Свойства_Length.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\089_Применение_Свойства_Length\obj\Debug\089_Применение_Свойства_Length.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\089_Применение_Свойства_Length\obj\Debug\089_Применение_Свойства_Length.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\089_Применение_Свойства_Length\obj\Debug\089_Применение_Свойства_Length.pdb

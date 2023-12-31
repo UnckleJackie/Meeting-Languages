@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\Определение_Числа_3_4\bin\Debug\Определение_Числа_3_4.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\Определение_Числа_3_4\bin\Debug\Определение_Числа_3_4.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\Определение_Числа_3_4\bin\Debug\Определение_Числа_3_4.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\Определение_Числа_3_4\obj\Debug\Определение_Числа_3_4.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\Определение_Числа_3_4\obj\Debug\Определение_Числа_3_4.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\Определение_Числа_3_4\obj\Debug\Определение_Числа_3_4.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\Определение_Числа_3_4\obj\Debug\Определение_Числа_3_4.pdb

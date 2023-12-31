@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\086_Инициализация_Двумерного_Массива\bin\Debug\086_Инициализация_Двумерного_Массива.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\086_Инициализация_Двумерного_Массива\bin\Debug\086_Инициализация_Двумерного_Массива.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\086_Инициализация_Двумерного_Массива\bin\Debug\086_Инициализация_Двумерного_Массива.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\086_Инициализация_Двумерного_Массива\obj\Debug\086_Инициализация_Двумерного_Массива.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\086_Инициализация_Двумерного_Массива\obj\Debug\086_Инициализация_Двумерного_Массива.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\086_Инициализация_Двумерного_Массива\obj\Debug\086_Инициализация_Двумерного_Массива.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\086_Инициализация_Двумерного_Массива\obj\Debug\086_Инициализация_Двумерного_Массива.pdb

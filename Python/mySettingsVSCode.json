@@ -1,0 +1,20 @@
+{
+    "files.autoSave": "afterDelay",
+    "window.commandCenter": false,
+    "editor.fontSize": 10,
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.cursorBlinking": true,
+    "editor.formatOnSave": true,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "workbench.colorTheme": "Bluloco Dark",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.hover.delay": 1500,
+    "code-runner.showExecutionMessage": false,
+    "code-runner.saveFileBeforeRun": true,
+    "workbench.layoutControl.enabled": false,
+    "window.zoomLevel": -1,
+    "editor.minimap.enabled": false,
+    "explorer.autoReveal": false,
+    "explorer.compactFolders": false
+}

@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\041_Исключаем_Деление_На_Ноль\bin\Debug\041_Исключаем_Деление_На_Ноль.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\041_Исключаем_Деление_На_Ноль\bin\Debug\041_Исключаем_Деление_На_Ноль.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\041_Исключаем_Деление_На_Ноль\bin\Debug\041_Исключаем_Деление_На_Ноль.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\041_Исключаем_Деление_На_Ноль\obj\Debug\041_Исключаем_Деление_На_Ноль.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\041_Исключаем_Деление_На_Ноль\obj\Debug\041_Исключаем_Деление_На_Ноль.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\041_Исключаем_Деление_На_Ноль\obj\Debug\041_Исключаем_Деление_На_Ноль.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\041_Исключаем_Деление_На_Ноль\obj\Debug\041_Исключаем_Деление_На_Ноль.pdb

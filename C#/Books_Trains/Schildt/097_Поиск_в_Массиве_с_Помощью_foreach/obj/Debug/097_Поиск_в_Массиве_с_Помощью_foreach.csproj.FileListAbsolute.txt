@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\097_Поиск_в_Массиве_с_Помощью_foreach\bin\Debug\097_Поиск_в_Массиве_с_Помощью_foreach.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\097_Поиск_в_Массиве_с_Помощью_foreach\bin\Debug\097_Поиск_в_Массиве_с_Помощью_foreach.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\097_Поиск_в_Массиве_с_Помощью_foreach\bin\Debug\097_Поиск_в_Массиве_с_Помощью_foreach.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\097_Поиск_в_Массиве_с_Помощью_foreach\obj\Debug\097_Поиск_в_Массиве_с_Помощью_foreach.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\097_Поиск_в_Массиве_с_Помощью_foreach\obj\Debug\097_Поиск_в_Массиве_с_Помощью_foreach.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\097_Поиск_в_Массиве_с_Помощью_foreach\obj\Debug\097_Поиск_в_Массиве_с_Помощью_foreach.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\097_Поиск_в_Массиве_с_Помощью_foreach\obj\Debug\097_Поиск_в_Массиве_с_Помощью_foreach.pdb

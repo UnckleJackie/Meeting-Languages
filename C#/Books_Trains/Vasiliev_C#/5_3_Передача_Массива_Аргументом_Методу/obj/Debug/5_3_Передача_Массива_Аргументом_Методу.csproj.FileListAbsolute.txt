@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_3_Передача_Массива_Аргументом_Методу\bin\Debug\5_3_Передача_Массива_Аргументом_Методу.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_3_Передача_Массива_Аргументом_Методу\bin\Debug\5_3_Передача_Массива_Аргументом_Методу.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_3_Передача_Массива_Аргументом_Методу\bin\Debug\5_3_Передача_Массива_Аргументом_Методу.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_3_Передача_Массива_Аргументом_Методу\obj\Debug\5_3_Передача_Массива_Аргументом_Методу.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_3_Передача_Массива_Аргументом_Методу\obj\Debug\5_3_Передача_Массива_Аргументом_Методу.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_3_Передача_Массива_Аргументом_Методу\obj\Debug\5_3_Передача_Массива_Аргументом_Методу.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\5_3_Передача_Массива_Аргументом_Методу\obj\Debug\5_3_Передача_Массива_Аргументом_Методу.pdb

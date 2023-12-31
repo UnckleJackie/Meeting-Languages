@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\088_Присваивание_Ссылок_На_Массивы\bin\Debug\088_Присваивание_Ссылок_На_Массивы.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\088_Присваивание_Ссылок_На_Массивы\bin\Debug\088_Присваивание_Ссылок_На_Массивы.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\088_Присваивание_Ссылок_На_Массивы\bin\Debug\088_Присваивание_Ссылок_На_Массивы.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\088_Присваивание_Ссылок_На_Массивы\obj\Debug\088_Присваивание_Ссылок_На_Массивы.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\088_Присваивание_Ссылок_На_Массивы\obj\Debug\088_Присваивание_Ссылок_На_Массивы.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\088_Присваивание_Ссылок_На_Массивы\obj\Debug\088_Присваивание_Ссылок_На_Массивы.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\088_Присваивание_Ссылок_На_Массивы\obj\Debug\088_Присваивание_Ссылок_На_Массивы.pdb

@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\007_If_Применение_кодового_блока\bin\Debug\007_If_Применение_кодового_блока.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\007_If_Применение_кодового_блока\bin\Debug\007_If_Применение_кодового_блока.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\007_If_Применение_кодового_блока\bin\Debug\007_If_Применение_кодового_блока.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\007_If_Применение_кодового_блока\obj\Debug\007_If_Применение_кодового_блока.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\007_If_Применение_кодового_блока\obj\Debug\007_If_Применение_кодового_блока.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\007_If_Применение_кодового_блока\obj\Debug\007_If_Применение_кодового_блока.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\007_If_Применение_кодового_блока\obj\Debug\007_If_Применение_кодового_блока.pdb

@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\064_break_Вложенные_Циклы\bin\Debug\064_break_Вложенные_Циклы.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\064_break_Вложенные_Циклы\bin\Debug\064_break_Вложенные_Циклы.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\064_break_Вложенные_Циклы\bin\Debug\064_break_Вложенные_Циклы.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\064_break_Вложенные_Циклы\obj\Debug\064_break_Вложенные_Циклы.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\064_break_Вложенные_Циклы\obj\Debug\064_break_Вложенные_Циклы.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\064_break_Вложенные_Циклы\obj\Debug\064_break_Вложенные_Циклы.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\064_break_Вложенные_Циклы\obj\Debug\064_break_Вложенные_Циклы.pdb

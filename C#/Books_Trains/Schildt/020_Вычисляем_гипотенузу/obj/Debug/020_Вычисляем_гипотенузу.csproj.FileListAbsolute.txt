@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\020_Вычисляем_гипотенузу\bin\Debug\020_Вычисляем_гипотенузу.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\020_Вычисляем_гипотенузу\bin\Debug\020_Вычисляем_гипотенузу.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\020_Вычисляем_гипотенузу\bin\Debug\020_Вычисляем_гипотенузу.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\020_Вычисляем_гипотенузу\obj\Debug\020_Вычисляем_гипотенузу.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\020_Вычисляем_гипотенузу\obj\Debug\020_Вычисляем_гипотенузу.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\020_Вычисляем_гипотенузу\obj\Debug\020_Вычисляем_гипотенузу.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\020_Вычисляем_гипотенузу\obj\Debug\020_Вычисляем_гипотенузу.pdb

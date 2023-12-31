@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\014_Расчет_скидки_decimal\bin\Debug\014_Расчет_скидки_decimal.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\014_Расчет_скидки_decimal\bin\Debug\014_Расчет_скидки_decimal.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\014_Расчет_скидки_decimal\bin\Debug\014_Расчет_скидки_decimal.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\014_Расчет_скидки_decimal\obj\Debug\014_Расчет_скидки_decimal.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\014_Расчет_скидки_decimal\obj\Debug\014_Расчет_скидки_decimal.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\014_Расчет_скидки_decimal\obj\Debug\014_Расчет_скидки_decimal.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\014_Расчет_скидки_decimal\obj\Debug\014_Расчет_скидки_decimal.pdb

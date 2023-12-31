@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\3_7_Использование_оператора_цикла_while\bin\Debug\3_7_Использование_оператора_цикла_while.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\3_7_Использование_оператора_цикла_while\bin\Debug\3_7_Использование_оператора_цикла_while.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\3_7_Использование_оператора_цикла_while\bin\Debug\3_7_Использование_оператора_цикла_while.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\3_7_Использование_оператора_цикла_while\obj\Debug\3_7_Использование_оператора_цикла_while.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\3_7_Использование_оператора_цикла_while\obj\Debug\3_7_Использование_оператора_цикла_while.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\3_7_Использование_оператора_цикла_while\obj\Debug\3_7_Использование_оператора_цикла_while.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\3_7_Использование_оператора_цикла_while\obj\Debug\3_7_Использование_оператора_цикла_while.pdb

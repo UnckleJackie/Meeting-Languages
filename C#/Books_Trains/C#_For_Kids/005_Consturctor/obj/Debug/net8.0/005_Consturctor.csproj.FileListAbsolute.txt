@@ -1,0 +1,4 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\005_Consturctor\obj\Debug\net8.0\005_Consturctor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\005_Consturctor\obj\Debug\net8.0\005_Consturctor.AssemblyInfoInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\005_Consturctor\obj\Debug\net8.0\005_Consturctor.AssemblyInfo.cs
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\005_Consturctor\obj\Debug\net8.0\005_Consturctor.csproj.CoreCompileInputs.cache

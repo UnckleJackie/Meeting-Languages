@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset = 'utf-8'>
+	<title>Угадай число</title>
+</head>
+<body>
+	<script>
+		var answer = parseInt(Math.random() * 100);
+		var attempt = 1;
+		var attemptsCount = 7;
+
+		while (attempt <= attemptsCount)
+		{
+			var userAnswer = prompt('Угадайте число от 0 до 100, у вас есть 7 попыток. Попытка №' + attempt);
+			userAnswer = parseInt(userAnswer);
+
+			if (userAnswer > answer)
+			{
+				alert('Ваш ответ больше загаданного числа!');
+			}
+			else if (userAnswer < answer)
+			{
+				alert('Ваш ответ меньше загаданного числа');
+			}
+			else if (userAnswer == answer)
+			{
+				alert('Да! Вы угадали!');
+				break;
+			}
+			else
+			{
+				alert('Необходимо ввести число');
+			}
+			attempt++;
+		}
+
+		if (attempt > attemptsCount)
+		{
+			alert('Анфочинэтли, вы не угадали. Было загадано число: ' + answer);
+		}
+	</script>
+</body>
+</html>

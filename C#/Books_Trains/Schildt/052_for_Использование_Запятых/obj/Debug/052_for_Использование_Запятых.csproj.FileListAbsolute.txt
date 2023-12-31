@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\052_for_Использование_Запятых\bin\Debug\052_for_Использование_Запятых.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\052_for_Использование_Запятых\bin\Debug\052_for_Использование_Запятых.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\052_for_Использование_Запятых\bin\Debug\052_for_Использование_Запятых.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\052_for_Использование_Запятых\obj\Debug\052_for_Использование_Запятых.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\052_for_Использование_Запятых\obj\Debug\052_for_Использование_Запятых.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\052_for_Использование_Запятых\obj\Debug\052_for_Использование_Запятых.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\052_for_Использование_Запятых\obj\Debug\052_for_Использование_Запятых.pdb

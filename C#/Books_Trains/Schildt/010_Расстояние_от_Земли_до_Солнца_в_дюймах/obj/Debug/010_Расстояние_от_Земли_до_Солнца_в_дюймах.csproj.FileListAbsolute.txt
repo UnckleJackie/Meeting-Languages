@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\010_Расстояние_от_Земли_до_Солнца_в_дюймах\bin\Debug\010_Расстояние_от_Земли_до_Солнца_в_дюймах.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\010_Расстояние_от_Земли_до_Солнца_в_дюймах\bin\Debug\010_Расстояние_от_Земли_до_Солнца_в_дюймах.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\010_Расстояние_от_Земли_до_Солнца_в_дюймах\bin\Debug\010_Расстояние_от_Земли_до_Солнца_в_дюймах.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\010_Расстояние_от_Земли_до_Солнца_в_дюймах\obj\Debug\010_Расстояние_от_Земли_до_Солнца_в_дюймах.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\010_Расстояние_от_Земли_до_Солнца_в_дюймах\obj\Debug\010_Расстояние_от_Земли_до_Солнца_в_дюймах.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\010_Расстояние_от_Земли_до_Солнца_в_дюймах\obj\Debug\010_Расстояние_от_Земли_до_Солнца_в_дюймах.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\010_Расстояние_от_Земли_до_Солнца_в_дюймах\obj\Debug\010_Расстояние_от_Земли_до_Солнца_в_дюймах.pdb

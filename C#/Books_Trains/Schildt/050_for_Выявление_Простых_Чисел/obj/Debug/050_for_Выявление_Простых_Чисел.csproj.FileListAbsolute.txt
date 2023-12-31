@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\050_for_Выявление_Простых_Чисел\bin\Debug\050_for_Выявление_Простых_Чисел.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\050_for_Выявление_Простых_Чисел\bin\Debug\050_for_Выявление_Простых_Чисел.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\050_for_Выявление_Простых_Чисел\bin\Debug\050_for_Выявление_Простых_Чисел.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\050_for_Выявление_Простых_Чисел\obj\Debug\050_for_Выявление_Простых_Чисел.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\050_for_Выявление_Простых_Чисел\obj\Debug\050_for_Выявление_Простых_Чисел.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\050_for_Выявление_Простых_Чисел\obj\Debug\050_for_Выявление_Простых_Чисел.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\050_for_Выявление_Простых_Чисел\obj\Debug\050_for_Выявление_Простых_Чисел.pdb

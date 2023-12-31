@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\055_for_Исключаем_Два_Блока\bin\Debug\055_for_Исключаем_Два_Блока.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\055_for_Исключаем_Два_Блока\bin\Debug\055_for_Исключаем_Два_Блока.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\055_for_Исключаем_Два_Блока\bin\Debug\055_for_Исключаем_Два_Блока.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\055_for_Исключаем_Два_Блока\obj\Debug\055_for_Исключаем_Два_Блока.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\055_for_Исключаем_Два_Блока\obj\Debug\055_for_Исключаем_Два_Блока.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\055_for_Исключаем_Два_Блока\obj\Debug\055_for_Исключаем_Два_Блока.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\055_for_Исключаем_Два_Блока\obj\Debug\055_for_Исключаем_Два_Блока.pdb

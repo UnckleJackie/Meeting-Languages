@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\061_Оператор_break\bin\Debug\061_Оператор_break.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\061_Оператор_break\bin\Debug\061_Оператор_break.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\061_Оператор_break\bin\Debug\061_Оператор_break.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\061_Оператор_break\obj\Debug\061_Оператор_break.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\061_Оператор_break\obj\Debug\061_Оператор_break.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\061_Оператор_break\obj\Debug\061_Оператор_break.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\061_Оператор_break\obj\Debug\061_Оператор_break.pdb

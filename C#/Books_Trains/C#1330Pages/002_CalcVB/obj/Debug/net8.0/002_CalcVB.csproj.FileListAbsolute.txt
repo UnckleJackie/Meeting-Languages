@@ -1,0 +1,4 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#1330Pages\002_CalcVB\obj\Debug\net8.0\002_CalcVB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#1330Pages\002_CalcVB\obj\Debug\net8.0\002_CalcVB.AssemblyInfoInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#1330Pages\002_CalcVB\obj\Debug\net8.0\002_CalcVB.AssemblyInfo.cs
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#1330Pages\002_CalcVB\obj\Debug\net8.0\002_CalcVB.csproj.CoreCompileInputs.cache

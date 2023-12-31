@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\6_1_Описание_Класса_и_Создание_Объектов\bin\Debug\6_1_Описание_Класса_и_Создание_Объектов.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\6_1_Описание_Класса_и_Создание_Объектов\bin\Debug\6_1_Описание_Класса_и_Создание_Объектов.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\6_1_Описание_Класса_и_Создание_Объектов\bin\Debug\6_1_Описание_Класса_и_Создание_Объектов.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\6_1_Описание_Класса_и_Создание_Объектов\obj\Debug\6_1_Описание_Класса_и_Создание_Объектов.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\6_1_Описание_Класса_и_Создание_Объектов\obj\Debug\6_1_Описание_Класса_и_Создание_Объектов.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\6_1_Описание_Класса_и_Создание_Объектов\obj\Debug\6_1_Описание_Класса_и_Создание_Объектов.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\6_1_Описание_Класса_и_Создание_Объектов\obj\Debug\6_1_Описание_Класса_и_Создание_Объектов.pdb

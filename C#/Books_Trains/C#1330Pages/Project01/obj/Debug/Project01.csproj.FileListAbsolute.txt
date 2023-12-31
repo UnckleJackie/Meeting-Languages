@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#1330Pages\Project01\bin\Debug\Project01.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#1330Pages\Project01\bin\Debug\Project01.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#1330Pages\Project01\bin\Debug\Project01.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#1330Pages\Project01\obj\Debug\Project01.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#1330Pages\Project01\obj\Debug\Project01.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#1330Pages\Project01\obj\Debug\Project01.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#1330Pages\Project01\obj\Debug\Project01.pdb

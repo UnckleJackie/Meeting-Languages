@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\071_Возвращаем_Значение_Из_Метода_Return\bin\Debug\071_Возвращаем_Значение_Из_Метода_Return.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\071_Возвращаем_Значение_Из_Метода_Return\bin\Debug\071_Возвращаем_Значение_Из_Метода_Return.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\071_Возвращаем_Значение_Из_Метода_Return\bin\Debug\071_Возвращаем_Значение_Из_Метода_Return.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\071_Возвращаем_Значение_Из_Метода_Return\obj\Debug\071_Возвращаем_Значение_Из_Метода_Return.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\071_Возвращаем_Значение_Из_Метода_Return\obj\Debug\071_Возвращаем_Значение_Из_Метода_Return.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\071_Возвращаем_Значение_Из_Метода_Return\obj\Debug\071_Возвращаем_Значение_Из_Метода_Return.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\071_Возвращаем_Значение_Из_Метода_Return\obj\Debug\071_Возвращаем_Значение_Из_Метода_Return.pdb

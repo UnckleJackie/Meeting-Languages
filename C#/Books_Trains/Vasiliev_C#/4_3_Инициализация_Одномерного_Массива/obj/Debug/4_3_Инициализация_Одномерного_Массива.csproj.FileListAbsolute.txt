@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_3_Инициализация_Одномерного_Массива\bin\Debug\4_3_Инициализация_Одномерного_Массива.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_3_Инициализация_Одномерного_Массива\bin\Debug\4_3_Инициализация_Одномерного_Массива.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_3_Инициализация_Одномерного_Массива\bin\Debug\4_3_Инициализация_Одномерного_Массива.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_3_Инициализация_Одномерного_Массива\obj\Debug\4_3_Инициализация_Одномерного_Массива.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_3_Инициализация_Одномерного_Массива\obj\Debug\4_3_Инициализация_Одномерного_Массива.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_3_Инициализация_Одномерного_Массива\obj\Debug\4_3_Инициализация_Одномерного_Массива.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_3_Инициализация_Одномерного_Массива\obj\Debug\4_3_Инициализация_Одномерного_Массива.pdb

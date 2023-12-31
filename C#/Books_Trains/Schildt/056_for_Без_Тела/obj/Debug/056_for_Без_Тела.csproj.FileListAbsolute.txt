@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\056_for_Без_Тела\bin\Debug\056_for_Без_Тела.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\056_for_Без_Тела\bin\Debug\056_for_Без_Тела.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\056_for_Без_Тела\bin\Debug\056_for_Без_Тела.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\056_for_Без_Тела\obj\Debug\056_for_Без_Тела.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\056_for_Без_Тела\obj\Debug\056_for_Без_Тела.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\056_for_Без_Тела\obj\Debug\056_for_Без_Тела.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\056_for_Без_Тела\obj\Debug\056_for_Без_Тела.pdb

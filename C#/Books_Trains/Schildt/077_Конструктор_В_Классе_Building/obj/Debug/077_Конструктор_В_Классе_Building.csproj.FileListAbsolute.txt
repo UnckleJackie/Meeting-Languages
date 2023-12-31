@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\077_Конструктор_В_Классе_Building\bin\Debug\077_Конструктор_В_Классе_Building.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\077_Конструктор_В_Классе_Building\bin\Debug\077_Конструктор_В_Классе_Building.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\077_Конструктор_В_Классе_Building\bin\Debug\077_Конструктор_В_Классе_Building.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\077_Конструктор_В_Классе_Building\obj\Debug\077_Конструктор_В_Классе_Building.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\077_Конструктор_В_Классе_Building\obj\Debug\077_Конструктор_В_Классе_Building.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\077_Конструктор_В_Классе_Building\obj\Debug\077_Конструктор_В_Классе_Building.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\077_Конструктор_В_Классе_Building\obj\Debug\077_Конструктор_В_Классе_Building.pdb

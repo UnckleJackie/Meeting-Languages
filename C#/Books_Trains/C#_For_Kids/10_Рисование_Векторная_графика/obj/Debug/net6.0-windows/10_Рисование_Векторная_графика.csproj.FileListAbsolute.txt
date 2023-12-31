@@ -1,0 +1,16 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\10_Рисование_Векторная_графика\bin\Debug\net6.0-windows\10_Рисование_Векторная_графика.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\10_Рисование_Векторная_графика\bin\Debug\net6.0-windows\10_Рисование_Векторная_графика.deps.json
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\10_Рисование_Векторная_графика\bin\Debug\net6.0-windows\10_Рисование_Векторная_графика.runtimeconfig.json
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\10_Рисование_Векторная_графика\bin\Debug\net6.0-windows\10_Рисование_Векторная_графика.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\10_Рисование_Векторная_графика\bin\Debug\net6.0-windows\10_Рисование_Векторная_графика.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\10_Рисование_Векторная_графика\obj\Debug\net6.0-windows\_10_Рисование_Векторная_графика.Form1.resources
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\10_Рисование_Векторная_графика\obj\Debug\net6.0-windows\10_Рисование_Векторная_графика.csproj.GenerateResource.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\10_Рисование_Векторная_графика\obj\Debug\net6.0-windows\10_Рисование_Векторная_графика.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\10_Рисование_Векторная_графика\obj\Debug\net6.0-windows\10_Рисование_Векторная_графика.AssemblyInfoInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\10_Рисование_Векторная_графика\obj\Debug\net6.0-windows\10_Рисование_Векторная_графика.AssemblyInfo.cs
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\10_Рисование_Векторная_графика\obj\Debug\net6.0-windows\10_Рисование_Векторная_графика.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\10_Рисование_Векторная_графика\obj\Debug\net6.0-windows\10_Рисование_Векторная_графика.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\10_Рисование_Векторная_графика\obj\Debug\net6.0-windows\refint\10_Рисование_Векторная_графика.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\10_Рисование_Векторная_графика\obj\Debug\net6.0-windows\10_Рисование_Векторная_графика.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\10_Рисование_Векторная_графика\obj\Debug\net6.0-windows\10_Рисование_Векторная_графика.genruntimeconfig.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\10_Рисование_Векторная_графика\obj\Debug\net6.0-windows\ref\10_Рисование_Векторная_графика.dll

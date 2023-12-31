@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\6_3_Закрытые_Члены_Класса_и_Перегрузка_Методов\bin\Debug\6_3_Закрытые_Члены_Класса_и_Перегрузка_Методов.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\6_3_Закрытые_Члены_Класса_и_Перегрузка_Методов\bin\Debug\6_3_Закрытые_Члены_Класса_и_Перегрузка_Методов.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\6_3_Закрытые_Члены_Класса_и_Перегрузка_Методов\bin\Debug\6_3_Закрытые_Члены_Класса_и_Перегрузка_Методов.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\6_3_Закрытые_Члены_Класса_и_Перегрузка_Методов\obj\Debug\6_3_Закрытые_Члены_Класса_и_Перегрузка_Методов.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\6_3_Закрытые_Члены_Класса_и_Перегрузка_Методов\obj\Debug\6_3_Закрытые_Члены_Класса_и_Перегрузка_Методов.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\6_3_Закрытые_Члены_Класса_и_Перегрузка_Методов\obj\Debug\6_3_Закрытые_Члены_Класса_и_Перегрузка_Методов.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\6_3_Закрытые_Члены_Класса_и_Перегрузка_Методов\obj\Debug\6_3_Закрытые_Члены_Класса_и_Перегрузка_Методов.pdb

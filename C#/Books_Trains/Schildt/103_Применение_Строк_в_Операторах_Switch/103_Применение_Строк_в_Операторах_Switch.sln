@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "103_Применение_Строк_в_Операторах_Switch", "103_Применение_Строк_в_Операторах_Switch.csproj", "{C42816CD-A064-423D-92F6-89A48DC35ADD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C42816CD-A064-423D-92F6-89A48DC35ADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C42816CD-A064-423D-92F6-89A48DC35ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C42816CD-A064-423D-92F6-89A48DC35ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C42816CD-A064-423D-92F6-89A48DC35ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5D243CB-51E2-4E27-AFBA-F98CE02E6703}
+	EndGlobalSection
+EndGlobal

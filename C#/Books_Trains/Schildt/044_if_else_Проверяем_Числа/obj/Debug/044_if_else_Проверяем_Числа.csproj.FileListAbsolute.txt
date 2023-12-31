@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\044_if_else_Проверяем_Числа\bin\Debug\044_if_else_Проверяем_Числа.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\044_if_else_Проверяем_Числа\bin\Debug\044_if_else_Проверяем_Числа.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\044_if_else_Проверяем_Числа\bin\Debug\044_if_else_Проверяем_Числа.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\044_if_else_Проверяем_Числа\obj\Debug\044_if_else_Проверяем_Числа.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\044_if_else_Проверяем_Числа\obj\Debug\044_if_else_Проверяем_Числа.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\044_if_else_Проверяем_Числа\obj\Debug\044_if_else_Проверяем_Числа.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\044_if_else_Проверяем_Числа\obj\Debug\044_if_else_Проверяем_Числа.pdb

@@ -1,0 +1,14 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\001_2_Modify_First_Program\bin\Debug\net8.0\001_2_Modify_First_Program.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\001_2_Modify_First_Program\bin\Debug\net8.0\001_2_Modify_First_Program.deps.json
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\001_2_Modify_First_Program\bin\Debug\net8.0\001_2_Modify_First_Program.runtimeconfig.json
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\001_2_Modify_First_Program\bin\Debug\net8.0\001_2_Modify_First_Program.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\001_2_Modify_First_Program\bin\Debug\net8.0\001_2_Modify_First_Program.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\001_2_Modify_First_Program\obj\Debug\net8.0\001_2_Modify_First_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\001_2_Modify_First_Program\obj\Debug\net8.0\001_2_Modify_First_Program.AssemblyInfoInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\001_2_Modify_First_Program\obj\Debug\net8.0\001_2_Modify_First_Program.AssemblyInfo.cs
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\001_2_Modify_First_Program\obj\Debug\net8.0\001_2_Modify_First_Program.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\001_2_Modify_First_Program\obj\Debug\net8.0\001_2_Modify_First_Program.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\001_2_Modify_First_Program\obj\Debug\net8.0\refint\001_2_Modify_First_Program.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\001_2_Modify_First_Program\obj\Debug\net8.0\001_2_Modify_First_Program.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\001_2_Modify_First_Program\obj\Debug\net8.0\001_2_Modify_First_Program.genruntimeconfig.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\001_2_Modify_First_Program\obj\Debug\net8.0\ref\001_2_Modify_First_Program.dll

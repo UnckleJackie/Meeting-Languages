@@ -1,0 +1,16 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\11_Растровое_рисование\bin\Debug\net6.0-windows\11_Растровое_рисование.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\11_Растровое_рисование\bin\Debug\net6.0-windows\11_Растровое_рисование.deps.json
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\11_Растровое_рисование\bin\Debug\net6.0-windows\11_Растровое_рисование.runtimeconfig.json
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\11_Растровое_рисование\bin\Debug\net6.0-windows\11_Растровое_рисование.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\11_Растровое_рисование\bin\Debug\net6.0-windows\11_Растровое_рисование.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\11_Растровое_рисование\obj\Debug\net6.0-windows\_11_Растровое_рисование.Form1.resources
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\11_Растровое_рисование\obj\Debug\net6.0-windows\11_Растровое_рисование.csproj.GenerateResource.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\11_Растровое_рисование\obj\Debug\net6.0-windows\11_Растровое_рисование.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\11_Растровое_рисование\obj\Debug\net6.0-windows\11_Растровое_рисование.AssemblyInfoInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\11_Растровое_рисование\obj\Debug\net6.0-windows\11_Растровое_рисование.AssemblyInfo.cs
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\11_Растровое_рисование\obj\Debug\net6.0-windows\11_Растровое_рисование.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\11_Растровое_рисование\obj\Debug\net6.0-windows\11_Растровое_рисование.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\11_Растровое_рисование\obj\Debug\net6.0-windows\refint\11_Растровое_рисование.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\11_Растровое_рисование\obj\Debug\net6.0-windows\11_Растровое_рисование.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\11_Растровое_рисование\obj\Debug\net6.0-windows\11_Растровое_рисование.genruntimeconfig.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\11_Растровое_рисование\obj\Debug\net6.0-windows\ref\11_Растровое_рисование.dll

@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\036_Поразрядный_Оператор_ИЛИ\bin\Debug\036_Поразрядный_Оператор_ИЛИ.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\036_Поразрядный_Оператор_ИЛИ\bin\Debug\036_Поразрядный_Оператор_ИЛИ.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\036_Поразрядный_Оператор_ИЛИ\bin\Debug\036_Поразрядный_Оператор_ИЛИ.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\036_Поразрядный_Оператор_ИЛИ\obj\Debug\036_Поразрядный_Оператор_ИЛИ.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\036_Поразрядный_Оператор_ИЛИ\obj\Debug\036_Поразрядный_Оператор_ИЛИ.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\036_Поразрядный_Оператор_ИЛИ\obj\Debug\036_Поразрядный_Оператор_ИЛИ.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\036_Поразрядный_Оператор_ИЛИ\obj\Debug\036_Поразрядный_Оператор_ИЛИ.pdb

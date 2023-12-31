@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\048_Пример_Проваливания_Пустых_Ветвей_Case\bin\Debug\048_Пример_Проваливания_Пустых_Ветвей_Case.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\048_Пример_Проваливания_Пустых_Ветвей_Case\bin\Debug\048_Пример_Проваливания_Пустых_Ветвей_Case.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\048_Пример_Проваливания_Пустых_Ветвей_Case\bin\Debug\048_Пример_Проваливания_Пустых_Ветвей_Case.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\048_Пример_Проваливания_Пустых_Ветвей_Case\obj\Debug\048_Пример_Проваливания_Пустых_Ветвей_Case.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\048_Пример_Проваливания_Пустых_Ветвей_Case\obj\Debug\048_Пример_Проваливания_Пустых_Ветвей_Case.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\048_Пример_Проваливания_Пустых_Ветвей_Case\obj\Debug\048_Пример_Проваливания_Пустых_Ветвей_Case.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\048_Пример_Проваливания_Пустых_Ветвей_Case\obj\Debug\048_Пример_Проваливания_Пустых_Ветвей_Case.pdb

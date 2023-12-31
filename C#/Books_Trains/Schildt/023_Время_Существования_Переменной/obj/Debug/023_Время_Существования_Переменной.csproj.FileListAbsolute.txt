@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\023_Время_Существования_Переменной\bin\Debug\023_Время_Существования_Переменной.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\023_Время_Существования_Переменной\bin\Debug\023_Время_Существования_Переменной.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\023_Время_Существования_Переменной\bin\Debug\023_Время_Существования_Переменной.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\023_Время_Существования_Переменной\obj\Debug\023_Время_Существования_Переменной.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\023_Время_Существования_Переменной\obj\Debug\023_Время_Существования_Переменной.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\023_Время_Существования_Переменной\obj\Debug\023_Время_Существования_Переменной.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\023_Время_Существования_Переменной\obj\Debug\023_Время_Существования_Переменной.pdb

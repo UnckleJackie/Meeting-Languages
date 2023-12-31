@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\030_Операция_Импликации\bin\Debug\030_Операция_Импликации.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\030_Операция_Импликации\bin\Debug\030_Операция_Импликации.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\030_Операция_Импликации\bin\Debug\030_Операция_Импликации.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\030_Операция_Импликации\obj\Debug\030_Операция_Импликации.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\030_Операция_Импликации\obj\Debug\030_Операция_Импликации.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\030_Операция_Импликации\obj\Debug\030_Операция_Импликации.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\030_Операция_Импликации\obj\Debug\030_Операция_Импликации.pdb

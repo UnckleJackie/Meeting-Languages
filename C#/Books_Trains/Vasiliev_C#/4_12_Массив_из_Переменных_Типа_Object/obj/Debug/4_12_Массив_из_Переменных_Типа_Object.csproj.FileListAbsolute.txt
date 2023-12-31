@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_12_Массив_из_Переменных_Типа_Object\bin\Debug\4_12_Массив_из_Переменных_Типа_Object.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_12_Массив_из_Переменных_Типа_Object\bin\Debug\4_12_Массив_из_Переменных_Типа_Object.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_12_Массив_из_Переменных_Типа_Object\bin\Debug\4_12_Массив_из_Переменных_Типа_Object.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_12_Массив_из_Переменных_Типа_Object\obj\Debug\4_12_Массив_из_Переменных_Типа_Object.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_12_Массив_из_Переменных_Типа_Object\obj\Debug\4_12_Массив_из_Переменных_Типа_Object.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_12_Массив_из_Переменных_Типа_Object\obj\Debug\4_12_Массив_из_Переменных_Типа_Object.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\4_12_Массив_из_Переменных_Типа_Object\obj\Debug\4_12_Массив_из_Переменных_Типа_Object.pdb

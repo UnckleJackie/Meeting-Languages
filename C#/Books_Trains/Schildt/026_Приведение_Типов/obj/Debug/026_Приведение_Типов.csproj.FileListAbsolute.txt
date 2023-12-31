@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\026_Приведение_Типов\bin\Debug\026_Приведение_Типов.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\026_Приведение_Типов\bin\Debug\026_Приведение_Типов.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\026_Приведение_Типов\bin\Debug\026_Приведение_Типов.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\026_Приведение_Типов\obj\Debug\026_Приведение_Типов.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\026_Приведение_Типов\obj\Debug\026_Приведение_Типов.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\026_Приведение_Типов\obj\Debug\026_Приведение_Типов.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\026_Приведение_Типов\obj\Debug\026_Приведение_Типов.pdb

@@ -1,0 +1,9 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\008_Windows_Forms\bin\Debug\008_Windows_Forms.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\008_Windows_Forms\bin\Debug\008_Windows_Forms.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\008_Windows_Forms\bin\Debug\008_Windows_Forms.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\008_Windows_Forms\obj\Debug\008_Windows_Forms.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\008_Windows_Forms\obj\Debug\_008_Windows_Forms.Properties.Resources.resources
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\008_Windows_Forms\obj\Debug\008_Windows_Forms.csproj.GenerateResource.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\008_Windows_Forms\obj\Debug\008_Windows_Forms.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\008_Windows_Forms\obj\Debug\008_Windows_Forms.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\C#_For_Kids\008_Windows_Forms\obj\Debug\008_Windows_Forms.pdb

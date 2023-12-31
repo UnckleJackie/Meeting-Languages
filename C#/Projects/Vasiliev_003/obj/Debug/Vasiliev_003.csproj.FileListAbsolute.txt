@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Projects\Vasiliev_003\bin\Debug\Vasiliev_003.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Projects\Vasiliev_003\bin\Debug\Vasiliev_003.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Projects\Vasiliev_003\bin\Debug\Vasiliev_003.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Projects\Vasiliev_003\obj\Debug\Vasiliev_003.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Projects\Vasiliev_003\obj\Debug\Vasiliev_003.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Projects\Vasiliev_003\obj\Debug\Vasiliev_003.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Projects\Vasiliev_003\obj\Debug\Vasiliev_003.pdb

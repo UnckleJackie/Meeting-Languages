@@ -1,0 +1,16 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_5_Знакомство с оператором выбора\bin\Debug\net6.0-windows\3_5_Знакомство с оператором выбора.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_5_Знакомство с оператором выбора\bin\Debug\net6.0-windows\3_5_Знакомство с оператором выбора.deps.json
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_5_Знакомство с оператором выбора\bin\Debug\net6.0-windows\3_5_Знакомство с оператором выбора.runtimeconfig.json
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_5_Знакомство с оператором выбора\bin\Debug\net6.0-windows\3_5_Знакомство с оператором выбора.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_5_Знакомство с оператором выбора\bin\Debug\net6.0-windows\3_5_Знакомство с оператором выбора.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_5_Знакомство с оператором выбора\obj\Debug\net6.0-windows\_3_5_Знакомство_с_оператором_выбора.Form1.resources
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_5_Знакомство с оператором выбора\obj\Debug\net6.0-windows\3_5_Знакомство с оператором выбора.csproj.GenerateResource.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_5_Знакомство с оператором выбора\obj\Debug\net6.0-windows\3_5_Знакомство с оператором выбора.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_5_Знакомство с оператором выбора\obj\Debug\net6.0-windows\3_5_Знакомство с оператором выбора.AssemblyInfoInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_5_Знакомство с оператором выбора\obj\Debug\net6.0-windows\3_5_Знакомство с оператором выбора.AssemblyInfo.cs
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_5_Знакомство с оператором выбора\obj\Debug\net6.0-windows\3_5_Знакомство с оператором выбора.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_5_Знакомство с оператором выбора\obj\Debug\net6.0-windows\3_5_Знакомство с оператором выбора.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_5_Знакомство с оператором выбора\obj\Debug\net6.0-windows\refint\3_5_Знакомство с оператором выбора.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_5_Знакомство с оператором выбора\obj\Debug\net6.0-windows\3_5_Знакомство с оператором выбора.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_5_Знакомство с оператором выбора\obj\Debug\net6.0-windows\3_5_Знакомство с оператором выбора.genruntimeconfig.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Vasiliev_C#\3_5_Знакомство с оператором выбора\obj\Debug\net6.0-windows\ref\3_5_Знакомство с оператором выбора.dll

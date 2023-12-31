@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\060_Do_While_Цифры_Числа_Обратный_Порядок\bin\Debug\060_Do_While_Цифры_Числа_Обратный_Порядок.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\060_Do_While_Цифры_Числа_Обратный_Порядок\bin\Debug\060_Do_While_Цифры_Числа_Обратный_Порядок.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\060_Do_While_Цифры_Числа_Обратный_Порядок\bin\Debug\060_Do_While_Цифры_Числа_Обратный_Порядок.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\060_Do_While_Цифры_Числа_Обратный_Порядок\obj\Debug\060_Do_While_Цифры_Числа_Обратный_Порядок.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\060_Do_While_Цифры_Числа_Обратный_Порядок\obj\Debug\060_Do_While_Цифры_Числа_Обратный_Порядок.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\060_Do_While_Цифры_Числа_Обратный_Порядок\obj\Debug\060_Do_While_Цифры_Числа_Обратный_Порядок.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\060_Do_While_Цифры_Числа_Обратный_Порядок\obj\Debug\060_Do_While_Цифры_Числа_Обратный_Порядок.pdb

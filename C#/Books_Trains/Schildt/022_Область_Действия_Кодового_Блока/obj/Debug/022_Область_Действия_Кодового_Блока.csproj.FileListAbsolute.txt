@@ -1,0 +1,7 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\022_Область_Действия_Кодового_Блока\bin\Debug\022_Область_Действия_Кодового_Блока.exe.config
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\022_Область_Действия_Кодового_Блока\bin\Debug\022_Область_Действия_Кодового_Блока.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\022_Область_Действия_Кодового_Блока\bin\Debug\022_Область_Действия_Кодового_Блока.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\022_Область_Действия_Кодового_Блока\obj\Debug\022_Область_Действия_Кодового_Блока.csproj.AssemblyReference.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\022_Область_Действия_Кодового_Блока\obj\Debug\022_Область_Действия_Кодового_Блока.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\022_Область_Действия_Кодового_Блока\obj\Debug\022_Область_Действия_Кодового_Блока.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Books_Trains\Schildt\022_Область_Действия_Кодового_Блока\obj\Debug\022_Область_Действия_Кодового_Блока.pdb
