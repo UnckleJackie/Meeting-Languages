@@ -1,3 +1,4 @@
+from model import PhoneBook
 import text
 
 def main_menu():
@@ -13,12 +14,12 @@ def main_menu():
         print(f'Select menu item from 1 till {len(text.main_menu) - 1}: ')
 
 
-def show_contacts(p_book: dict[int, list[str]], error_message: str):
-    max_size = list(map(lambda x: len(max(x, key = len)), list(zip(*p_book.values()))))
+def show_contacts(p_book: PhoneBook, error_message: str):
+    max_size = p_book.max_len()
     if p_book:
         print('\n' + '=' * (sum(max_size) + 7))
-        for n, contact in p_book.items():
-            print(f'{n:>3}. {contact[0]:<{max_size[0]}} {contact[1]:<{max_size[1]}} {contact[2]:<{max_size[2]}}')
+        for n, contact in p_book.phonebook.items():
+            print(f'{n:>3}. {contact.name:<{max_size[0]}} {contact.phone:<{max_size[1]}} {contact.comment:<{max_size[2]}}')
         print('=' * (sum(max_size) + 7) + '\n')
     else:
         print_message(error_message)
