@@ -8,6 +8,7 @@ def find_contact(phones: model.PhoneBook):
                 result = phones.find_contact(word)
                 view.show_contacts(result, text.contacts_not_found(word))
 
+
 def start_app():
     pb = model.PhoneBook()
     while True:
@@ -20,7 +21,7 @@ def start_app():
                 pb.save_file()
                 view.print_message(text.save_successful)
             case 3:
-                view.show_contacts(pb.phonebook, text.empty_phone_book)
+                view.show_contacts(pb, text.empty_phone_book)
             case 4:
                 contact = view.add_contact(text.new_contact)
                 pb.new_contact(contact)

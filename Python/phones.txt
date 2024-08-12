@@ -1,1 +1,2 @@
-Eugene Puchkov;777-777;Malates
+Eugene;88002000500;Malates
+Kirill;777-777;Friend

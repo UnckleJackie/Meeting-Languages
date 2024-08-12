@@ -1,19 +1,19 @@
 import random
-attempt = 10
+attempt = 250
 wrong_attempt = 0
 print()
 print()
 print()
 print('  ---------------------!БАМБАРБИЯ!---------------------')
-print('  Привет, Мирослав! Потреним в таблице умножения сейчас')
+print('  Привет, Гжушпештик! Нам надо осилить таблицу умножения')
 print(f'  Количество примеров, которые мы решим ПРАВИЛЬНО: {attempt} ')
 print('  Будь внимателен, потому что неправильные ответы не будут засчитываться.')
 print('  А если ты введешь вместо цифр что-то другое, то программа вылетит и придется начинать сначала.')
-print('  Итак, погнали! ')
+print('  Короче, задач дахуа, но ты не бзди! Погнали! ')
 print()
 
 while attempt > 0:
-    first_number = random.randint(1, 10)
+    first_number = random.randint(1, 12)
     second_number = random.randint(1, 10)
     # rectangle = print(' ' * 8,'-' * first_number)
     # print(' ' * 7, '|', ' ' * (first_number - 2), '|')
